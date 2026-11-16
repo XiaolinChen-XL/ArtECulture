@@ -1,0 +1,3 @@
+# Optional semantic retrieval dependency; versions were not supplied with the source.
+# Record your resolved versions with pip freeze for experiment reproducibility.
+sentence-transformers

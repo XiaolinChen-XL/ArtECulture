@@ -1,0 +1,3 @@
+# Optional GPU training/inference dependency; versions were not supplied with the source.
+# Select a CUDA/PyTorch stack appropriate for your hardware and record its versions.
+ms-swift

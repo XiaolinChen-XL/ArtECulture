@@ -1,0 +1,680 @@
+image_id,image_path,english_emotion,chinese_emotion,arabic_emotion,country,region_group,split
+01KDGMP6RH0Z2F7QZCBPNA5549.jpg,Image/01KDGMP6RH0Z2F7QZCBPNA5549.jpg,awe,disgust,awe,chinese,non-western,test
+01KDGMP0X0YYMGQYQ1K864T9MJ.jpg,Image/01KDGMP0X0YYMGQYQ1K864T9MJ.jpg,fear,disgust,sadness,chinese,non-western,test
+01KDGMP66SFYX2VYZM93RBR1DT.jpg,Image/01KDGMP66SFYX2VYZM93RBR1DT.jpg,fear,disgust,awe,chinese,non-western,test
+01KDGMP0ZKWDQBYK4M7WK3W61Q.jpg,Image/01KDGMP0ZKWDQBYK4M7WK3W61Q.jpg,fear,disgust,awe,chinese,non-western,test
+01KDGMP17E8BFVG5Y5ZCGR4ZVC.jpg,Image/01KDGMP17E8BFVG5Y5ZCGR4ZVC.jpg,contentment,contentment,excitement,chinese,non-western,test
+01KDGMP1CQSBSHJ5AS34JYDG11.jpg,Image/01KDGMP1CQSBSHJ5AS34JYDG11.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1J3C46ES5XVK0QMQF0H.jpg,Image/01KDGMP1J3C46ES5XVK0QMQF0H.jpg,fear,disgust,something else,chinese,non-western,test
+01KDJP4WSB8YF15QHFQTFHXDKJ.jpg,Image/01KDJP4WSB8YF15QHFQTFHXDKJ.jpg,contentment,disgust,amusement,chinese,non-western,test
+01KDGMP1A65GKZA33DTF3BEJZJ.jpg,Image/01KDGMP1A65GKZA33DTF3BEJZJ.jpg,fear,awe,awe,chinese,non-western,test
+01KDGMP0BCSQD24X7RNPG4V2CV.jpg,Image/01KDGMP0BCSQD24X7RNPG4V2CV.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0K3QPB8V7QKEFNRXAYK.jpg,Image/01KDGMP0K3QPB8V7QKEFNRXAYK.jpg,contentment,contentment,awe,chinese,non-western,test
+01KDGMP0NKPZAYFVXZZR7FBKSF.jpg,Image/01KDGMP0NKPZAYFVXZZR7FBKSF.jpg,awe,contentment,awe,chinese,non-western,test
+01KDGMP696HZJRG0FVPQCNJWP6.jpg,Image/01KDGMP696HZJRG0FVPQCNJWP6.jpg,fear,contentment,excitement,chinese,non-western,test
+01KDGMP6YV8BC6R0KXRP9Q9D4C.jpg,Image/01KDGMP6YV8BC6R0KXRP9Q9D4C.jpg,awe,disgust,fear,chinese,non-western,test
+01KDGMP17N6DMCME95V1HE008X.jpg,Image/01KDGMP17N6DMCME95V1HE008X.jpg,awe,disgust,sadness,chinese,non-western,test
+01KDGMP1JB3QFS3GBV3XAERF52.jpg,Image/01KDGMP1JB3QFS3GBV3XAERF52.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP78KCBXQW6V5S2115N11.jpg,Image/01KDGMP78KCBXQW6V5S2115N11.jpg,contentment,disgust,excitement,chinese,non-western,test
+01KDJP4WSB8YF15QHFQTFHXDKP.jpg,Image/01KDJP4WSB8YF15QHFQTFHXDKP.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP1CZB5DVZD17GVZM7TJC.jpg,Image/01KDGMP1CZB5DVZD17GVZM7TJC.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP6RWWQGWCVC8Y6W4GB9Q.jpg,Image/01KDGMP6RWWQGWCVC8Y6W4GB9Q.jpg,awe,disgust,contentment,chinese,non-western,test
+01KDGMP0R73J3HWGD1YQ6HV32F.jpg,Image/01KDGMP0R73J3HWGD1YQ6HV32F.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0TR2F22NP3V5FPF4ZRF.jpg,Image/01KDGMP0TR2F22NP3V5FPF4ZRF.jpg,excitement,disgust,amusement,chinese,non-western,test
+01KDGMP6YZT4FV69YZDYKPXTR5.jpg,Image/01KDGMP6YZT4FV69YZDYKPXTR5.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0R81F30FBSC2503VG01.jpg,Image/01KDGMP0R81F30FBSC2503VG01.jpg,sadness,disgust,awe,chinese,non-western,test
+01KDGMP17RMCXGX99K42FSXRHE.jpg,Image/01KDGMP17RMCXGX99K42FSXRHE.jpg,contentment,contentment,fear,chinese,non-western,test
+01KDGMP69C4ACQTX10RYVBPD66.jpg,Image/01KDGMP69C4ACQTX10RYVBPD66.jpg,fear,fear,awe,chinese,non-western,test
+01KDGMP0E4TSNDBQC04M4XF345.jpg,Image/01KDGMP0E4TSNDBQC04M4XF345.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP155QDDH6S398JNN7ZSQ.jpg,Image/01KDGMP155QDDH6S398JNN7ZSQ.jpg,contentment,awe,contentment,chinese,non-western,test
+01KDGMP6Z1Q7T9XMBPJ96DG1RH.jpg,Image/01KDGMP6Z1Q7T9XMBPJ96DG1RH.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0RAF84TEADT5KCYM0XK.jpg,Image/01KDGMP0RAF84TEADT5KCYM0XK.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP17TTYZ4MHJKPEKCG3SJ.jpg,Image/01KDGMP17TTYZ4MHJKPEKCG3SJ.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0KB2MAFHCNNSAEWQ3YY.jpg,Image/01KDGMP0KB2MAFHCNNSAEWQ3YY.jpg,contentment,contentment,something else,chinese,non-western,test
+01KDGMP0BPZX9JXS0139VC4032.jpg,Image/01KDGMP0BPZX9JXS0139VC4032.jpg,excitement,contentment,contentment,chinese,non-western,test
+01KDGMP0E8VF16Z94GD89PW9V9.jpg,Image/01KDGMP0E8VF16Z94GD89PW9V9.jpg,fear,contentment,fear,chinese,non-western,test
+01KDGMP69HA540MZ1HFYA03A7B.jpg,Image/01KDGMP69HA540MZ1HFYA03A7B.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1T62RCRNKDH8Y2DJ84Z.jpg,Image/01KDGMP1T62RCRNKDH8Y2DJ84Z.jpg,fear,contentment,awe,chinese,non-western,test
+01KDGMP78XA0AVAV5MY35DBRCP.jpg,Image/01KDGMP78XA0AVAV5MY35DBRCP.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP1G0G4NBG7BGK9H9A36R.jpg,Image/01KDGMP1G0G4NBG7BGK9H9A36R.jpg,sadness,disgust,contentment,chinese,non-western,test
+01KDGMP1T8R3W9NXMAGVX1YQAC.jpg,Image/01KDGMP1T8R3W9NXMAGVX1YQAC.jpg,excitement,contentment,awe,chinese,non-western,test
+01KDGMP0BT1T1HWQP6TEW0PK6S.jpg,Image/01KDGMP0BT1T1HWQP6TEW0PK6S.jpg,excitement,disgust,contentment,chinese,non-western,test
+01KDGMP0KGSWTJX38VH29JAMDA.jpg,Image/01KDGMP0KGSWTJX38VH29JAMDA.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1DDHWZPWZM7DVC9DBXG.jpg,Image/01KDGMP1DDHWZPWZM7DVC9DBXG.jpg,contentment,disgust,awe,chinese,non-western,test
+01KDGMP7902C03MVM78QZY884T.jpg,Image/01KDGMP7902C03MVM78QZY884T.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0BVBJEN4MM3H0NA8YWB.jpg,Image/01KDGMP0BVBJEN4MM3H0NA8YWB.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP6ZA1SQRSD41Y46781J8.jpg,Image/01KDGMP6ZA1SQRSD41Y46781J8.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1ZG7ACT16Z8P5KM555Z.jpg,Image/01KDGMP1ZG7ACT16Z8P5KM555Z.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP227F1XWSMM5QDJKYKNJ.jpg,Image/01KDGMP227F1XWSMM5QDJKYKNJ.jpg,awe,contentment,fear,chinese,non-western,test
+01KDGMP0BYXH6XB0D5H7SM5AEH.jpg,Image/01KDGMP0BYXH6XB0D5H7SM5AEH.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0EG871Y69E9X58ZN85J.jpg,Image/01KDGMP0EG871Y69E9X58ZN85J.jpg,fear,contentment,sadness,chinese,non-western,test
+01KDGMP187DES8F5M06P92A8J8.jpg,Image/01KDGMP187DES8F5M06P92A8J8.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0EHS9BNN8RQ8B887YZD.jpg,Image/01KDGMP0EHS9BNN8RQ8B887YZD.jpg,contentment,contentment,amusement,chinese,non-western,test
+01KDGMP15M5S2EA7QHYF5PQB31.jpg,Image/01KDGMP15M5S2EA7QHYF5PQB31.jpg,awe,contentment,amusement,chinese,non-western,test
+01KDGMP189BNJYYG5BNG0ZZKBX.jpg,Image/01KDGMP189BNJYYG5BNG0ZZKBX.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1R0DMC1VSS6ZZHHDAX0.jpg,Image/01KDGMP1R0DMC1VSS6ZZHHDAX0.jpg,disgust,contentment,amusement,chinese,non-western,test
+01KDGMP0C18JVTMDZ2BNNDNF1C.jpg,Image/01KDGMP0C18JVTMDZ2BNNDNF1C.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1NG5NCFPZ3EN69XPHJ0.jpg,Image/01KDGMP1NG5NCFPZ3EN69XPHJ0.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP64ZTFFJ3PAZ98M1R1NQ.jpg,Image/01KDGMP64ZTFFJ3PAZ98M1R1NQ.jpg,fear,contentment,awe,chinese,non-western,test
+01KDJP4WSDDAFAN2X9Z8FFDYRN.jpg,Image/01KDJP4WSDDAFAN2X9Z8FFDYRN.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0H87Z587WN61H0HP6MM.jpg,Image/01KDGMP0H87Z587WN61H0HP6MM.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0P9GHGFSFQ8R2B6VM6D.jpg,Image/01KDGMP0P9GHGFSFQ8R2B6VM6D.jpg,contentment,contentment,amusement,chinese,non-western,test
+01KDJP4WSDDAFAN2X9Z8FFDYRP.jpg,Image/01KDJP4WSDDAFAN2X9Z8FFDYRP.jpg,awe,contentment,excitement,chinese,non-western,test
+01KDGMP1B1GEQQ2VNQ4D5ZGZBV.jpg,Image/01KDGMP1B1GEQQ2VNQ4D5ZGZBV.jpg,excitement,disgust,awe,chinese,non-western,test
+01KDGMP22ECHDPB3NTTPQ2NZHD.jpg,Image/01KDGMP22ECHDPB3NTTPQ2NZHD.jpg,fear,contentment,contentment,chinese,non-western,test
+01KDGMP15RH0W544KFSV642VBM.jpg,Image/01KDGMP15RH0W544KFSV642VBM.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP1ZSQRKND7MBJB9SBXWH.jpg,Image/01KDGMP1ZSQRKND7MBJB9SBXWH.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0PCX04WYFA26WVNYG2V.jpg,Image/01KDGMP0PCX04WYFA26WVNYG2V.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0RXRW4Q8EYD3G63893E.jpg,Image/01KDGMP0RXRW4Q8EYD3G63893E.jpg,fear,disgust,sadness,chinese,non-western,test
+01KDJP4WSDDAFAN2X9Z8FFDYRS.jpg,Image/01KDJP4WSDDAFAN2X9Z8FFDYRS.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP18GXXYGFXACS971CWXY.jpg,Image/01KDGMP18GXXYGFXACS971CWXY.jpg,awe,disgust,fear,chinese,non-western,test
+01KDGMP1DS0BXNPPVB2QWE1TEB.jpg,Image/01KDGMP1DS0BXNPPVB2QWE1TEB.jpg,contentment,disgust,awe,chinese,non-western,test
+01KDGMP6DET0V3HWZ5B64D6EC2.jpg,Image/01KDGMP6DET0V3HWZ5B64D6EC2.jpg,awe,fear,awe,chinese,non-western,test
+01KDGMP6SKN0C0M406J4VR7QSN.jpg,Image/01KDGMP6SKN0C0M406J4VR7QSN.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP22J17F0H4KVQD66RAY4.jpg,Image/01KDGMP22J17F0H4KVQD66RAY4.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP6DGA7X4R7WYZBYG3SFY.jpg,Image/01KDGMP6DGA7X4R7WYZBYG3SFY.jpg,awe,fear,fear,chinese,non-western,test
+01KDGMP0EX06M3JAV1GC8E57TC.jpg,Image/01KDGMP0EX06M3JAV1GC8E57TC.jpg,contentment,contentment,awe,chinese,non-western,test
+01KDGMP22NNWWCSGNSFSJ6CDJ6.jpg,Image/01KDGMP22NNWWCSGNSFSJ6CDJ6.jpg,fear,disgust,contentment,chinese,non-western,test
+01KDGMP79F7D0YWJ1PQ27HV5MQ.jpg,Image/01KDGMP79F7D0YWJ1PQ27HV5MQ.jpg,awe,disgust,awe,chinese,non-western,test
+01KDGMP1NT96A9C1RRNWBQJMH9.jpg,Image/01KDGMP1NT96A9C1RRNWBQJMH9.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP65882RDKE5SA81QAK1M.jpg,Image/01KDGMP65882RDKE5SA81QAK1M.jpg,excitement,contentment,awe,chinese,non-western,test
+01KDGMP79H1XVZE4K48ER7QJGE.jpg,Image/01KDGMP79H1XVZE4K48ER7QJGE.jpg,sadness,disgust,fear,chinese,non-western,test
+01KDGMP65A2NJKMD469G3MGQA9.jpg,Image/01KDGMP65A2NJKMD469G3MGQA9.jpg,amusement,contentment,contentment,chinese,non-western,test
+01KDGMP0M3XQXVMJA4GKVC3Q3D.jpg,Image/01KDGMP0M3XQXVMJA4GKVC3Q3D.jpg,sadness,disgust,sadness,chinese,non-western,test
+01KDGMP1KCM5HF6J7PE64EMZEH.jpg,Image/01KDGMP1KCM5HF6J7PE64EMZEH.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP163PQH384BJEXWZ3MSG.jpg,Image/01KDGMP163PQH384BJEXWZ3MSG.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP18RTW2PW6MNH51EVBY4.jpg,Image/01KDGMP18RTW2PW6MNH51EVBY4.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP164G51Y0PTG9729J75W.jpg,Image/01KDGMP164G51Y0PTG9729J75W.jpg,excitement,contentment,amusement,chinese,non-western,test
+01KDGMP165QZV03XMX8DX2SH39.jpg,Image/01KDGMP165QZV03XMX8DX2SH39.jpg,contentment,amusement,contentment,chinese,non-western,test
+01KDGMP10ZERA80VQ6JJKJC7EE.jpg,Image/01KDGMP10ZERA80VQ6JJKJC7EE.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP1BFN8R5QEWM23C8R6EM.jpg,Image/01KDGMP1BFN8R5QEWM23C8R6EM.jpg,something else,disgust,awe,chinese,non-western,test
+01KDGMP6SYC90P4FESPR6EV2EN.jpg,Image/01KDGMP6SYC90P4FESPR6EV2EN.jpg,awe,fear,contentment,chinese,non-western,test
+01KDGMP0YFRSJEGMHDHFPBYF9S.jpg,Image/01KDGMP0YFRSJEGMHDHFPBYF9S.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP6DXNCSKFENGB4803XZ6.jpg,Image/01KDGMP6DXNCSKFENGB4803XZ6.jpg,contentment,sadness,contentment,chinese,non-western,test
+01KDGMP0HT18P2HB1E55C1S5EP.jpg,Image/01KDGMP0HT18P2HB1E55C1S5EP.jpg,amusement,disgust,amusement,chinese,non-western,test
+01KDGMP6DYKFZCC18BEWK6EGV7.jpg,Image/01KDGMP6DYKFZCC18BEWK6EGV7.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP0VZ7YRMBVEWDCVAQXZ6.jpg,Image/01KDGMP0VZ7YRMBVEWDCVAQXZ6.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1KMZ60H5M9VF2EKPGZA.jpg,Image/01KDGMP1KMZ60H5M9VF2EKPGZA.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP20CXVK56AY73VGWRSYE.jpg,Image/01KDGMP20CXVK56AY73VGWRSYE.jpg,contentment,fear,contentment,chinese,non-western,test
+01KDGMP13T92F18A7EA4VB6VGN.jpg,Image/01KDGMP13T92F18A7EA4VB6VGN.jpg,fear,disgust,contentment,chinese,non-western,test
+01KDGMP1RQTWXT1AQWDEBYAEWH.jpg,Image/01KDGMP1RQTWXT1AQWDEBYAEWH.jpg,contentment,disgust,sadness,chinese,non-western,test
+01KDGMP20D6RBWXSKTS43DP1RP.jpg,Image/01KDGMP20D6RBWXSKTS43DP1RP.jpg,contentment,disgust,something else,chinese,non-western,test
+01KDGMP0HY7AJ0S7YK955FM9MZ.jpg,Image/01KDGMP0HY7AJ0S7YK955FM9MZ.jpg,something else,disgust,sadness,chinese,non-western,test
+01KDGMP116CCR860MAQNY3GD76.jpg,Image/01KDGMP116CCR860MAQNY3GD76.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP195FJ64XNPMARQ0S6HW.jpg,Image/01KDGMP195FJ64XNPMARQ0S6HW.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDJP4WSG795E2P5H40CMH36Q.jpg,Image/01KDJP4WSG795E2P5H40CMH36Q.jpg,contentment,contentment,sadness,chinese,non-western,test
+01KDGMP13X0WXDMM8RWVQKGFRV.jpg,Image/01KDGMP13X0WXDMM8RWVQKGFRV.jpg,contentment,fear,awe,chinese,non-western,test
+01KDGMP70BNSVGCCKAJPV4RZFD.jpg,Image/01KDGMP70BNSVGCCKAJPV4RZFD.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP1RXN00T9B01TKK850JA.jpg,Image/01KDGMP1RXN00T9B01TKK850JA.jpg,contentment,amusement,amusement,chinese,non-western,test
+01KDGMP65T997DE0QF6TSY56T7.jpg,Image/01KDGMP65T997DE0QF6TSY56T7.jpg,fear,contentment,contentment,chinese,non-western,test
+01KDJP4WSG795E2P5H40CMH36T.jpg,Image/01KDJP4WSG795E2P5H40CMH36T.jpg,awe,contentment,awe,chinese,non-western,test
+01KDGMP0MMZRS0M6HMJS7QPN4B.jpg,Image/01KDGMP0MMZRS0M6HMJS7QPN4B.jpg,contentment,contentment,sadness,chinese,non-western,test
+01KDGMP0Q5NFSCQS01V4YX1HN7.jpg,Image/01KDGMP0Q5NFSCQS01V4YX1HN7.jpg,contentment,disgust,sadness,chinese,non-western,test
+01KDGMP1XZHB9FV0Q8AHHTRD7E.jpg,Image/01KDGMP1XZHB9FV0Q8AHHTRD7E.jpg,awe,contentment,awe,chinese,non-western,test
+01KDGMP6EBQEH3JGC4JQXVPFYP.jpg,Image/01KDGMP6EBQEH3JGC4JQXVPFYP.jpg,contentment,fear,contentment,chinese,non-western,test
+01KDGMP7A706E6TWNMTBBYYRAX.jpg,Image/01KDGMP7A706E6TWNMTBBYYRAX.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0MPR7HZ0VKAF7V9V0RX.jpg,Image/01KDGMP0MPR7HZ0VKAF7V9V0RX.jpg,awe,contentment,awe,chinese,non-western,test
+01KDGMP0WA9BDD3F0CSJ5QTPT4.jpg,Image/01KDGMP0WA9BDD3F0CSJ5QTPT4.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP19CMHSHWTV7DGYXWCYN.jpg,Image/01KDGMP19CMHSHWTV7DGYXWCYN.jpg,awe,contentment,awe,chinese,non-western,test
+01KDGMP1HAC6S8WWKEPJW5F8SM.jpg,Image/01KDGMP1HAC6S8WWKEPJW5F8SM.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP7A8V3E562Z13N6F02RN.jpg,Image/01KDGMP7A8V3E562Z13N6F02RN.jpg,disgust,disgust,contentment,chinese,non-western,test
+01KDGMP1VJB1PC1CDX86NGN4Z7.jpg,Image/01KDGMP1VJB1PC1CDX86NGN4Z7.jpg,amusement,contentment,awe,chinese,non-western,test
+01KDGMP20TCHRTY6TS7D3D060M.jpg,Image/01KDGMP20TCHRTY6TS7D3D060M.jpg,awe,contentment,something else,chinese,non-western,test
+01KDGMP16SX16ST1F4FJ074BVT.jpg,Image/01KDGMP16SX16ST1F4FJ074BVT.jpg,contentment,something else,contentment,chinese,non-western,test
+01KDGMP1HEJN88J9XQEE3N6GR0.jpg,Image/01KDGMP1HEJN88J9XQEE3N6GR0.jpg,sadness,disgust,contentment,chinese,non-western,test
+01KDGMP0SXZ83FJK2T9JSG81J4.jpg,Image/01KDGMP0SXZ83FJK2T9JSG81J4.jpg,contentment,disgust,awe,chinese,non-western,test
+01KDGMP23MXWQCTZK30A3BA0MR.jpg,Image/01KDGMP23MXWQCTZK30A3BA0MR.jpg,fear,disgust,fear,chinese,non-western,test
+01KDGMP19PMQYGZ011P7KGKZBX.jpg,Image/01KDGMP19PMQYGZ011P7KGKZBX.jpg,sadness,disgust,contentment,chinese,non-western,test
+01KDGMP0JG1A5NW6KG1822X8R7.jpg,Image/01KDGMP0JG1A5NW6KG1822X8R7.jpg,awe,disgust,contentment,chinese,non-western,test
+01KDGMP0T2VAFSW7K8APQHFF3M.jpg,Image/01KDGMP0T2VAFSW7K8APQHFF3M.jpg,fear,fear,contentment,chinese,non-western,test
+01KDGMP0WMP726E7XEYVZ2PX50.jpg,Image/01KDGMP0WMP726E7XEYVZ2PX50.jpg,awe,contentment,contentment,chinese,non-western,test
+01KDGMP19R4ZWVCJ1EGNJCHBXM.jpg,Image/01KDGMP19R4ZWVCJ1EGNJCHBXM.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP70VHNX2FKN2DE50SZPF.jpg,Image/01KDGMP70VHNX2FKN2DE50SZPF.jpg,contentment,disgust,contentment,chinese,non-western,test
+01KDGMP0N2SDJCWEZKS4J0P4GE.jpg,Image/01KDGMP0N2SDJCWEZKS4J0P4GE.jpg,contentment,contentment,awe,chinese,non-western,test
+01KDGMP639VH04P1W1W8K8TNKG.jpg,Image/01KDGMP639VH04P1W1W8K8TNKG.jpg,contentment,contentment,awe,chinese,non-western,test
+01KDGMP0G34DK04MA955SP1MTP.jpg,Image/01KDGMP0G34DK04MA955SP1MTP.jpg,sadness,contentment,contentment,chinese,non-western,test
+01KDGMP173FS89G1452NQXQNDZ.jpg,Image/01KDGMP173FS89G1452NQXQNDZ.jpg,contentment,contentment,amusement,chinese,non-western,test
+01KDGMP1YGZXKG2VEKF8EQGKTS.jpg,Image/01KDGMP1YGZXKG2VEKF8EQGKTS.jpg,contentment,contentment,awe,chinese,non-western,test
+01KDGMP218PKGN8PFQNYNW5NDV.jpg,Image/01KDGMP218PKGN8PFQNYNW5NDV.jpg,contentment,disgust,fear,chinese,non-western,test
+01KDGMP63B4XB88Q7D24XQ29EX.jpg,Image/01KDGMP63B4XB88Q7D24XQ29EX.jpg,something else,contentment,contentment,chinese,non-western,test
+01KDGMP66C115ZZRQRX7RB4YXY.jpg,Image/01KDGMP66C115ZZRQRX7RB4YXY.jpg,something else,contentment,awe,chinese,non-western,test
+01KDGMP6EV8XS0QGH8BWHPEA9Z.jpg,Image/01KDGMP6EV8XS0QGH8BWHPEA9Z.jpg,fear,fear,fear,chinese,non-western,test
+01KDGMP0JPMBCRWTWE4WX06HXF.jpg,Image/01KDGMP0JPMBCRWTWE4WX06HXF.jpg,fear,disgust,contentment,chinese,non-western,test
+01KDGMP11Z2Z7WSK96HWRMCP6D.jpg,Image/01KDGMP11Z2Z7WSK96HWRMCP6D.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP1MFC7ZS715997KCDW0W.jpg,Image/01KDGMP1MFC7ZS715997KCDW0W.jpg,sadness,contentment,contentment,chinese,non-western,test
+01KDGMP7K3VNT6ATMCN5R3F11R.jpg,Image/01KDGMP7K3VNT6ATMCN5R3F11R.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0G5VP55THM8A2PG1GJ2.jpg,Image/01KDGMP0G5VP55THM8A2PG1GJ2.jpg,awe,disgust,contentment,chinese,non-western,test
+01KDGMP1MGCMMR4C2ZKKVN76Y4.jpg,Image/01KDGMP1MGCMMR4C2ZKKVN76Y4.jpg,contentment,contentment,contentment,chinese,non-western,test
+01KDGMP0JRMX0SD0ZPXMND87VE.jpg,Image/01KDGMP0JRMX0SD0ZPXMND87VE.jpg,awe,disgust,contentment,chinese,non-western,test
+01KDGMP63GBK05XMEM2EAZB2PN.jpg,Image/01KDGMP63GBK05XMEM2EAZB2PN.jpg,something else,disgust,contentment,chinese,non-western,test
+01KDGMP1Q4ZCZFC95RPB12DN5N.jpg,Image/01KDGMP1Q4ZCZFC95RPB12DN5N.jpg,awe,disgust,awe,chinese,non-western,test
+01KDGMP7KN45QRP49HERHYT74W.jpg,Image/01KDGMP7KN45QRP49HERHYT74W.jpg,fear,disgust,fear,chinese,non-western,test
+01KDGMP1HZBSWCXZE5KDCEV9SP.jpg,Image/01KDGMP1HZBSWCXZE5KDCEV9SP.jpg,contentment,contentment,contentment,chinese,non-western,test
+000033_4cc9a4830a.jpg,Image/000033_4cc9a4830a.jpg,excitement,contentment,amusement,indian,non-western,test
+000012_3b9adda97d.jpg,Image/000012_3b9adda97d.jpg,contentment,contentment,contentment,indian,non-western,test
+000025_0490724e93.jpg,Image/000025_0490724e93.jpg,contentment,fear,awe,indian,non-western,test
+000119_fdf587218d.jpg,Image/000119_fdf587218d.jpg,awe,disgust,awe,indian,non-western,test
+000055_8c2d32daff.jpg,Image/000055_8c2d32daff.jpg,excitement,contentment,excitement,indian,non-western,test
+000113_f35b229ae5.jpg,Image/000113_f35b229ae5.jpg,awe,disgust,contentment,islamic,non-western,test
+000015_d367bfa585.jpg,Image/000015_d367bfa585.jpg,awe,contentment,contentment,japanese,non-western,test
+000193_5ad30b5c3f.jpg,Image/000193_5ad30b5c3f.jpg,awe,contentment,contentment,japanese,non-western,test
+000317_931115c07e.jpg,Image/000317_931115c07e.jpg,fear,contentment,awe,japanese,non-western,test
+000003_80c0048145.jpg,Image/000003_80c0048145.jpg,contentment,contentment,contentment,japanese,non-western,test
+000128_f77f42ba9e.jpg,Image/000128_f77f42ba9e.jpg,fear,disgust,fear,japanese,non-western,test
+000156_d03a726a20.jpg,Image/000156_d03a726a20.jpg,contentment,disgust,awe,japanese,non-western,test
+000212_2daf9124af.jpg,Image/000212_2daf9124af.jpg,fear,contentment,fear,japanese,non-western,test
+000048_8f08819e4b.jpg,Image/000048_8f08819e4b.jpg,contentment,disgust,contentment,japanese,non-western,test
+000198_16ee44d5f2.jpg,Image/000198_16ee44d5f2.jpg,awe,contentment,awe,japanese,non-western,test
+000035_754cf3c1fb.jpg,Image/000035_754cf3c1fb.jpg,awe,disgust,contentment,japanese,non-western,test
+000050_cea10eccab.jpg,Image/000050_cea10eccab.jpg,contentment,contentment,awe,japanese,non-western,test
+000104_839d1e692a.jpg,Image/000104_839d1e692a.jpg,fear,disgust,awe,japanese,non-western,test
+000325_59de24203b.jpg,Image/000325_59de24203b.jpg,awe,fear,awe,japanese,non-western,test
+000367_1dccdd519e.jpg,Image/000367_1dccdd519e.jpg,fear,fear,fear,japanese,non-western,test
+000257_1c9ddd0c24.jpg,Image/000257_1c9ddd0c24.jpg,awe,contentment,awe,japanese,non-western,test
+000026_fe9cc1f9f8.jpg,Image/000026_fe9cc1f9f8.jpg,contentment,contentment,contentment,japanese,non-western,test
+000355_54d210789e.jpg,Image/000355_54d210789e.jpg,fear,contentment,anger,japanese,non-western,test
+000274_a81b39ed80.jpg,Image/000274_a81b39ed80.jpg,fear,fear,fear,japanese,non-western,test
+000192_98d93f5b1b.jpg,Image/000192_98d93f5b1b.jpg,excitement,contentment,contentment,japanese,non-western,test
+000065_06a4b58b82.jpg,Image/000065_06a4b58b82.jpg,contentment,contentment,contentment,korean,non-western,test
+000028_f8b28f73e4.jpg,Image/000028_f8b28f73e4.jpg,contentment,contentment,contentment,korean,non-western,test
+000087_e048670d25.jpg,Image/000087_e048670d25.jpg,awe,disgust,contentment,korean,non-western,test
+000072_ef25505390.jpg,Image/000072_ef25505390.jpg,awe,contentment,contentment,korean,non-western,test
+000051_7ea8a67ec7.jpg,Image/000051_7ea8a67ec7.jpg,contentment,disgust,contentment,korean,non-western,test
+000100_a97f905356.jpg,Image/000100_a97f905356.jpg,contentment,contentment,awe,korean,non-western,test
+000009_c00496434f.jpg,Image/000009_c00496434f.jpg,contentment,disgust,contentment,korean,non-western,test
+ad-reinhardt_number-6-1946.jpg,Image/ad-reinhardt_number-6-1946.jpg,something else,disgust,something else,United States,western,test
+gerhard-richter_untitled.jpg,Image/gerhard-richter_untitled.jpg,fear,fear,something else,Germany,western,test
+joan-mitchell_little-trip-1969.jpg,Image/joan-mitchell_little-trip-1969.jpg,contentment,contentment,awe,France,western,test
+morris-louis_airborn-1959.jpg,Image/morris-louis_airborn-1959.jpg,awe,contentment,awe,United States,western,test
+paul-jenkins_phenomena-phoenix-equinox(1).jpg,Image/paul-jenkins_phenomena-phoenix-equinox(1).jpg,contentment,awe,contentment,United States,western,test
+sam-francis_untitled-sf-236-1978.jpg,Image/sam-francis_untitled-sf-236-1978.jpg,disgust,disgust,awe,United States,western,test
+alexandre-benois_hermann-at-the-entrance-to-the-countess(1).jpg,Image/alexandre-benois_hermann-at-the-entrance-to-the-countess(1).jpg,contentment,sadness,amusement,Russia,non-western,test
+anna-ostroumova-lebedeva_landscape-with-a-river-norway-between-bergen-and-christiania-1914.jpg,Image/anna-ostroumova-lebedeva_landscape-with-a-river-norway-between-bergen-and-christiania-1914.jpg,contentment,contentment,awe,Russia,non-western,test
+boris-kustodiev_summer-holiday-1922.jpg,Image/boris-kustodiev_summer-holiday-1922.jpg,contentment,excitement,contentment,Russia,non-western,test
+boris-kustodiev_two-merchant-s-wifes-1913.jpg,Image/boris-kustodiev_two-merchant-s-wifes-1913.jpg,amusement,contentment,contentment,Russia,non-western,test
+carl-larsson_children-of-the-carpenter-helberg-1906(1).jpg,Image/carl-larsson_children-of-the-carpenter-helberg-1906(1).jpg,amusement,contentment,contentment,Sweden,western,test
+carl-larsson_christmas-morning-1894(1).jpg,Image/carl-larsson_christmas-morning-1894(1).jpg,amusement,contentment,amusement,Sweden,western,test
+carl-larsson_suzanne-1894(1).jpg,Image/carl-larsson_suzanne-1894(1).jpg,fear,fear,fear,Sweden,western,test
+eugã¨ne-grasset_la-belle-jardiniere-february-1896.jpg,Image/eugã¨ne-grasset_la-belle-jardiniere-february-1896.jpg,contentment,contentment,contentment,Switzerland,western,test
+ferdinand-hodler_self-portrait-with-roses-1914.jpg,Image/ferdinand-hodler_self-portrait-with-roses-1914.jpg,amusement,amusement,contentment,Switzerland,western,test
+ferdinand-hodler_thun-stockhornkette-1910.jpg,Image/ferdinand-hodler_thun-stockhornkette-1910.jpg,contentment,contentment,amusement,Switzerland,western,test
+gustav-klimt_schloss-kammer-on-the-attersee-iv.jpg,Image/gustav-klimt_schloss-kammer-on-the-attersee-iv.jpg,contentment,contentment,amusement,Austria,western,test
+heorhiy-narbut_front-page-of-apollo-magazine-1916.jpg,Image/heorhiy-narbut_front-page-of-apollo-magazine-1916.jpg,awe,awe,awe,Ukraine,western,test
+heorhiy-narbut_old-ukraine-bandura-player-1917.jpg,Image/heorhiy-narbut_old-ukraine-bandura-player-1917.jpg,contentment,contentment,amusement,Ukraine,western,test
+ivan-bilibin_crimea-baidar-valley-1918(1).jpg,Image/ivan-bilibin_crimea-baidar-valley-1918(1).jpg,contentment,contentment,amusement,Russia,non-western,test
+ivan-bilibin_france-view-from-the-window-of-the-cottages-1935(1).jpg,Image/ivan-bilibin_france-view-from-the-window-of-the-cottages-1935(1).jpg,contentment,contentment,amusement,Russia,non-western,test
+ivan-bilibin_illustration-for-alexander-pushkin-s-fairytale-of-the-tsar-saltan-1905(1).jpg,Image/ivan-bilibin_illustration-for-alexander-pushkin-s-fairytale-of-the-tsar-saltan-1905(1).jpg,something else,contentment,contentment,Russia,non-western,test
+jacek-malczewski_angel-and-the-little-shepherd-boy-1.jpg,Image/jacek-malczewski_angel-and-the-little-shepherd-boy-1.jpg,contentment,contentment,amusement,Poland,western,test
+jacek-malczewski_in-wells.jpg,Image/jacek-malczewski_in-wells.jpg,contentment,contentment,excitement,Poland,western,test
+mikhail-nesterov_annunciation.jpg,Image/mikhail-nesterov_annunciation.jpg,awe,contentment,awe,Russia,non-western,test
+mikhail-vrubel_at-nightfall-1900.jpg,Image/mikhail-vrubel_at-nightfall-1900.jpg,contentment,contentment,contentment,Russia,non-western,test
+nicholas-roerich_building-the-ships-1903.jpg,Image/nicholas-roerich_building-the-ships-1903.jpg,awe,contentment,contentment,Russia,non-western,test
+nicholas-roerich_castle-of-king-mark-1912.jpg,Image/nicholas-roerich_castle-of-king-mark-1912.jpg,awe,contentment,awe,Russia,non-western,test
+nicholas-roerich_vernicle-1912.jpg,Image/nicholas-roerich_vernicle-1912.jpg,fear,fear,awe,Russia,non-western,test
+sergey-solomko_age-at-the-turn-of-xx-century.jpg,Image/sergey-solomko_age-at-the-turn-of-xx-century.jpg,excitement,contentment,amusement,Russia,non-western,test
+sergey-solomko_song-without-words.jpg,Image/sergey-solomko_song-without-words.jpg,contentment,sadness,contentment,Russia,non-western,test
+zinaida-serebriakova_eugene-portrait-of-the-artist-s-son-1917.jpg,Image/zinaida-serebriakova_eugene-portrait-of-the-artist-s-son-1917.jpg,sadness,sadness,contentment,Russia,non-western,test
+bartolome-esteban-murillo_flight-into-egypt-1660.jpg,Image/bartolome-esteban-murillo_flight-into-egypt-1660.jpg,awe,contentment,contentment,Spain,western,test
+canaletto_campo-sant-angelo.jpg,Image/canaletto_campo-sant-angelo.jpg,awe,contentment,contentment,Italy,western,test
+canaletto_the-molo-and-the-piazzetta-san-marco-venice.jpg,Image/canaletto_the-molo-and-the-piazzetta-san-marco-venice.jpg,contentment,contentment,awe,Italy,western,test
+caravaggio_burial-of-saint-lucy-1608(1).jpg,Image/caravaggio_burial-of-saint-lucy-1608(1).jpg,sadness,sadness,sadness,Italy,western,test
+diego-velazquez_queen-isabel-of-bourbon-equestrian-1635.jpg,Image/diego-velazquez_queen-isabel-of-bourbon-equestrian-1635.jpg,amusement,contentment,contentment,Spain,western,test
+diego-velazquez_st-anthony-the-abbot-and-st-paul-the-first-hermit.jpg,Image/diego-velazquez_st-anthony-the-abbot-and-st-paul-the-first-hermit.jpg,awe,fear,contentment,Spain,western,test
+esaias-van-de-velde_flask-skaters-and-players-on-the-ice-in-the-farmyards.jpg,Image/esaias-van-de-velde_flask-skaters-and-players-on-the-ice-in-the-farmyards.jpg,contentment,contentment,amusement,Netherlands,western,test
+francisco-de-zurbaran_meditation-of-st-francis-1632.jpg,Image/francisco-de-zurbaran_meditation-of-st-francis-1632.jpg,sadness,fear,contentment,Spain,western,test
+frans-hals_portrait-of-a-man-holding-gloves.jpg,Image/frans-hals_portrait-of-a-man-holding-gloves.jpg,amusement,contentment,contentment,Netherlands,western,test
+gabriel-metsu_lady-seated-in-a-window.jpg,Image/gabriel-metsu_lady-seated-in-a-window.jpg,amusement,contentment,something else,Netherlands,western,test
+guido-reni_st-joseph.jpg,Image/guido-reni_st-joseph.jpg,contentment,contentment,contentment,Italy,western,test
+guido-reni_the-coronation-of-the-virgin-1626.jpg,Image/guido-reni_the-coronation-of-the-virgin-1626.jpg,awe,contentment,awe,Italy,western,test
+jacob-isaakszoon-van-ruisdael_a-road-through-an-oak-wood.jpg,Image/jacob-isaakszoon-van-ruisdael_a-road-through-an-oak-wood.jpg,contentment,sadness,awe,Netherlands,western,test
+jan-steen_peasant-wedding.jpg,Image/jan-steen_peasant-wedding.jpg,excitement,contentment,amusement,Netherlands,western,test
+johannes-vermeer_the-concert.jpg,Image/johannes-vermeer_the-concert.jpg,contentment,contentment,awe,Netherlands,western,test
+pietro-da-cortona_study-for-the-age-of-silver.jpg,Image/pietro-da-cortona_study-for-the-age-of-silver.jpg,contentment,contentment,amusement,Italy,western,test
+rembrandt_christ-crucified-between-the-two-thieves-three-crosses-1659.jpg,Image/rembrandt_christ-crucified-between-the-two-thieves-three-crosses-1659.jpg,sadness,fear,fear,Netherlands,western,test
+rembrandt_old-man-in-meditation-leaning-on-a-book-1645.jpg,Image/rembrandt_old-man-in-meditation-leaning-on-a-book-1645.jpg,sadness,sadness,contentment,Netherlands,western,test
+rembrandt_portrait-of-the-young-saskia-1633.jpg,Image/rembrandt_portrait-of-the-young-saskia-1633.jpg,amusement,contentment,amusement,Netherlands,western,test
+rembrandt_saskia-the-artist-s-wife.jpg,Image/rembrandt_saskia-the-artist-s-wife.jpg,something else,contentment,contentment,Netherlands,western,test
+rembrandt_the-polish-rider-1655.jpg,Image/rembrandt_the-polish-rider-1655.jpg,awe,contentment,excitement,Netherlands,western,test
+rembrandt_the-prophetess-anna-rembrandt-s-mother-1631.jpg,Image/rembrandt_the-prophetess-anna-rembrandt-s-mother-1631.jpg,excitement,contentment,contentment,Netherlands,western,test
+charles-hinman_double-kite-1981.jpg,Image/charles-hinman_double-kite-1981.jpg,excitement,contentment,excitement,United States,western,test
+gene-davis_untitled-pink-yellow-and-white-1980.jpg,Image/gene-davis_untitled-pink-yellow-and-white-1980.jpg,something else,contentment,something else,United States,western,test
+gotthard-graubner_untitled-1988.jpg,Image/gotthard-graubner_untitled-1988.jpg,contentment,fear,awe,Germany,western,test
+morris-louis_beth-chaf-1959.jpg,Image/morris-louis_beth-chaf-1959.jpg,contentment,awe,awe,United States,western,test
+paul-jenkins_continental-divide.jpg,Image/paul-jenkins_continental-divide.jpg,excitement,contentment,awe,United States,western,test
+eric-fischl_the-raft.jpg,Image/eric-fischl_the-raft.jpg,something else,contentment,amusement,United States,western,test
+neil-welliver_synthetic-blue-st-john.jpg,Image/neil-welliver_synthetic-blue-st-john.jpg,contentment,contentment,amusement,United States,western,test
+amadeo-de-souza-cardoso_cash-register-1917.jpg,Image/amadeo-de-souza-cardoso_cash-register-1917.jpg,excitement,contentment,awe,Portugal,western,test
+ben-nicholson_1945-still-life-1945.jpg,Image/ben-nicholson_1945-still-life-1945.jpg,contentment,contentment,awe,United Kingdom,western,test
+ernst-ludwig-kirchner_great-lovers-mr-and-miss-hembus.jpg,Image/ernst-ludwig-kirchner_great-lovers-mr-and-miss-hembus.jpg,disgust,disgust,amusement,Germany,western,test
+juan-gris_the-guitar-with-inlay-1925.jpg,Image/juan-gris_the-guitar-with-inlay-1925.jpg,contentment,contentment,awe,Spain,western,test
+miriam-schapiro_master-of-ceremonies-1985.jpg,Image/miriam-schapiro_master-of-ceremonies-1985.jpg,excitement,contentment,amusement,United States,western,test
+saul-steinberg_head-1945.jpg,Image/saul-steinberg_head-1945.jpg,amusement,amusement,awe,United States,western,test
+benozzo-gozzoli_adoration-of-the-magi.jpg,Image/benozzo-gozzoli_adoration-of-the-magi.jpg,awe,contentment,contentment,Italy,western,test
+benozzo-gozzoli_st-francis-giving-away-his-clothes-vision-of-the-church-militant-and-triumphant-detail.jpg,Image/benozzo-gozzoli_st-francis-giving-away-his-clothes-vision-of-the-church-militant-and-triumphant-detail.jpg,amusement,contentment,contentment,Italy,western,test
+benozzo-gozzoli_tabernacle-of-the-madonna-delle-tosse-four-evangelists.jpg,Image/benozzo-gozzoli_tabernacle-of-the-madonna-delle-tosse-four-evangelists.jpg,awe,something else,contentment,Italy,western,test
+benozzo-gozzoli_the-dance-of-salome-detail-1462-3.jpg,Image/benozzo-gozzoli_the-dance-of-salome-detail-1462-3.jpg,awe,fear,contentment,Italy,western,test
+alexander-calder_elephant-1928.jpg,Image/alexander-calder_elephant-1928.jpg,amusement,contentment,awe,United States,western,test
+amedeo-modigliani_study-of-a-head-1913.jpg,Image/amedeo-modigliani_study-of-a-head-1913.jpg,fear,fear,something else,Italy,western,test
+anita-malfatti_o-caminho-da-vida.jpg,Image/anita-malfatti_o-caminho-da-vida.jpg,contentment,contentment,amusement,Brazil,non-western,test
+balthus_girl-and-cat-1937.jpg,Image/balthus_girl-and-cat-1937.jpg,sadness,contentment,contentment,France,western,test
+balthus_the-bouquet-of-roses-on-the-window-1958.jpg,Image/balthus_the-bouquet-of-roses-on-the-window-1958.jpg,contentment,contentment,amusement,France,western,test
+clyfford-still_1936-7-no-2-1936.jpg,Image/clyfford-still_1936-7-no-2-1936.jpg,fear,fear,fear,United States,western,test
+edvard-munch_high-summer-ii-1915.jpg,Image/edvard-munch_high-summer-ii-1915.jpg,contentment,contentment,amusement,Norway,western,test
+edvard-munch_spring-1889.jpg,Image/edvard-munch_spring-1889.jpg,sadness,contentment,sadness,Norway,western,test
+ernst-ludwig-kirchner_coffee-drinking-women.jpg,Image/ernst-ludwig-kirchner_coffee-drinking-women.jpg,amusement,contentment,amusement,Germany,western,test
+ernst-ludwig-kirchner_mountains-and-houses-in-the-snow.jpg,Image/ernst-ludwig-kirchner_mountains-and-houses-in-the-snow.jpg,contentment,contentment,awe,Germany,western,test
+franz-marc_the-steer-the-bull-1911.jpg,Image/franz-marc_the-steer-the-bull-1911.jpg,contentment,contentment,sadness,Germany,western,test
+george-bouzianis_portrait-of-a-woman-1917.jpg,Image/george-bouzianis_portrait-of-a-woman-1917.jpg,sadness,sadness,contentment,Greece,western,test
+henri-matisse_young-woman-playing-violin-1923.jpg,Image/henri-matisse_young-woman-playing-violin-1923.jpg,contentment,contentment,amusement,France,western,test
+kathe-kollwitz_the-end-1897.jpg,Image/kathe-kollwitz_the-end-1897.jpg,sadness,fear,sadness,Germany,western,test
+laszlo-mednyanszky_burial-in-the-carpathian-mountains-1917.jpg,Image/laszlo-mednyanszky_burial-in-the-carpathian-mountains-1917.jpg,sadness,sadness,sadness,Hungary,western,test
+lucian-freud_father-and-daughter-1949.jpg,Image/lucian-freud_father-and-daughter-1949.jpg,fear,contentment,contentment,United Kingdom,western,test
+m.c.-escher_not_detected_204676.jpg,Image/m.c.-escher_not_detected_204676.jpg,something else,contentment,something else,Netherlands,western,test
+m.c.-escher_roosje-ingen-housz.jpg,Image/m.c.-escher_roosje-ingen-housz.jpg,sadness,sadness,something else,Netherlands,western,test
+margareta-sterian_anxious-flowers.jpg,Image/margareta-sterian_anxious-flowers.jpg,contentment,contentment,awe,Romania,western,test
+pablo-picasso_two-nude-women-1906-2.jpg,Image/pablo-picasso_two-nude-women-1906-2.jpg,disgust,disgust,disgust,Spain,western,test
+rafael-zabaleta_the-old-woman-and-the-girl-1957.jpg,Image/rafael-zabaleta_the-old-woman-and-the-girl-1957.jpg,fear,fear,contentment,Spain,western,test
+salvador-dali_portrait-of-anna-maria-1.jpg,Image/salvador-dali_portrait-of-anna-maria-1.jpg,sadness,contentment,sadness,Spain,western,test
+salvador-dali_untitled-apocalyptic-christ-christ-with-flames.jpg,Image/salvador-dali_untitled-apocalyptic-christ-christ-with-flames.jpg,awe,sadness,sadness,Spain,western,test
+salvador-dali_untitled-head-of-a-woman-unfinished.jpg,Image/salvador-dali_untitled-head-of-a-woman-unfinished.jpg,fear,fear,awe,Spain,western,test
+salvador-dali_untitled-imaginary-landscape-at-pubol.jpg,Image/salvador-dali_untitled-imaginary-landscape-at-pubol.jpg,fear,fear,something else,Spain,western,test
+yiannis-tsaroychis_dark-haired-youth-seated-with-a-topcoat-1936.jpg,Image/yiannis-tsaroychis_dark-haired-youth-seated-with-a-topcoat-1936.jpg,amusement,contentment,contentment,Greece,western,test
+zinaida-serebriakova_terrace-in-collioure-1930.jpg,Image/zinaida-serebriakova_terrace-in-collioure-1930.jpg,contentment,contentment,amusement,Russia,non-western,test
+charles-lapicque_man-uvres-de-nuit-1958.jpg,Image/charles-lapicque_man-uvres-de-nuit-1958.jpg,amusement,contentment,amusement,France,western,test
+georges-braque_the-house-behind-the-trees-1906.jpg,Image/georges-braque_the-house-behind-the-trees-1906.jpg,amusement,contentment,amusement,France,western,test
+ion-pacea_nature-morte-aux-pommes.jpg,Image/ion-pacea_nature-morte-aux-pommes.jpg,excitement,contentment,awe,Romania,western,test
+luca-signorelli_holy-family-with-st-catherine-1492.jpg,Image/luca-signorelli_holy-family-with-st-catherine-1492.jpg,awe,contentment,contentment,Italy,western,test
+michelangelo_moses-1515.jpg,Image/michelangelo_moses-1515.jpg,awe,contentment,awe,Italy,western,test
+pietro-perugino_madonna-of-consolation-1498.jpg,Image/pietro-perugino_madonna-of-consolation-1498.jpg,awe,contentment,awe,Italy,western,test
+raphael_birth-on-good-friday.jpg,Image/raphael_birth-on-good-friday.jpg,awe,contentment,amusement,Italy,western,test
+vittore-carpaccio_st-george-baptising-the-gentile-1507.jpg,Image/vittore-carpaccio_st-george-baptising-the-gentile-1507.jpg,awe,contentment,contentment,Italy,western,test
+vittore-carpaccio_the-lion-of-st-mark-1516.jpg,Image/vittore-carpaccio_the-lion-of-st-mark-1516.jpg,awe,awe,fear,Italy,western,test
+alfred-sisley_alley-of-chestnut-trees.jpg,Image/alfred-sisley_alley-of-chestnut-trees.jpg,contentment,contentment,amusement,France,western,test
+alfred-sisley_children-playing-in-the-fields-1879.jpg,Image/alfred-sisley_children-playing-in-the-fields-1879.jpg,contentment,contentment,amusement,France,western,test
+alfred-sisley_the-seine-at-grenelle-rainy-wether-1878.jpg,Image/alfred-sisley_the-seine-at-grenelle-rainy-wether-1878.jpg,contentment,contentment,amusement,France,western,test
+antã³nio-de-carvalho-da-silva-porto_recanto-de-praia.jpg,Image/antã³nio-de-carvalho-da-silva-porto_recanto-de-praia.jpg,contentment,contentment,amusement,Portugal,western,test
+antoine-blanchard_porte-st-denis-9.jpg,Image/antoine-blanchard_porte-st-denis-9.jpg,contentment,sadness,amusement,France,western,test
+antoine-blanchard_porte-st-martin.jpg,Image/antoine-blanchard_porte-st-martin.jpg,awe,contentment,amusement,France,western,test
+arkhip-kuindzhi_trunks-of-trees.jpg,Image/arkhip-kuindzhi_trunks-of-trees.jpg,contentment,contentment,amusement,Ukraine,western,test
+armand-guillaumin_paysage-de-creuse-1897.jpg,Image/armand-guillaumin_paysage-de-creuse-1897.jpg,contentment,contentment,amusement,France,western,test
+armand-guillaumin_vase-de-chrysanthemes-1885.jpg,Image/armand-guillaumin_vase-de-chrysanthemes-1885.jpg,contentment,contentment,amusement,France,western,test
+auguste-rodin_young-girl-with-roses-on-her-hat-1870.jpg,Image/auguste-rodin_young-girl-with-roses-on-her-hat-1870.jpg,awe,contentment,awe,France,western,test
+berthe-morisot_beneath-the-lilac-at-maurecourt-1874.jpg,Image/berthe-morisot_beneath-the-lilac-at-maurecourt-1874.jpg,contentment,contentment,amusement,France,western,test
+berthe-morisot_jeannie-gobillard.jpg,Image/berthe-morisot_jeannie-gobillard.jpg,sadness,contentment,contentment,France,western,test
+berthe-morisot_young-girl-with-cat-1892.jpg,Image/berthe-morisot_young-girl-with-cat-1892.jpg,contentment,contentment,awe,France,western,test
+camille-pissarro_garden-at-eragny-study.jpg,Image/camille-pissarro_garden-at-eragny-study.jpg,contentment,contentment,contentment,France,western,test
+camille-pissarro_sunlight-on-the-road-pontoise-1874.jpg,Image/camille-pissarro_sunlight-on-the-road-pontoise-1874.jpg,contentment,sadness,contentment,France,western,test
+camille-pissarro_the-garden-at-pontoise-1877.jpg,Image/camille-pissarro_the-garden-at-pontoise-1877.jpg,contentment,contentment,amusement,France,western,test
+camille-pissarro_the-village-of-eragny-1885.jpg,Image/camille-pissarro_the-village-of-eragny-1885.jpg,contentment,contentment,awe,France,western,test
+camille-pissarro_view-of-duquesne-and-berrigny-basins-in-dieppe-1902.jpg,Image/camille-pissarro_view-of-duquesne-and-berrigny-basins-in-dieppe-1902.jpg,contentment,contentment,awe,France,western,test
+camille-pissarro_view-of-the-tuileries-morning-1900.jpg,Image/camille-pissarro_view-of-the-tuileries-morning-1900.jpg,contentment,contentment,amusement,France,western,test
+childe-hassam_a-spring-morning-1892.jpg,Image/childe-hassam_a-spring-morning-1892.jpg,contentment,contentment,amusement,United States,western,test
+childe-hassam_in-the-garden-at-villers-le-bel.jpg,Image/childe-hassam_in-the-garden-at-villers-le-bel.jpg,contentment,contentment,contentment,United States,western,test
+childe-hassam_rooftops-pont-aven.jpg,Image/childe-hassam_rooftops-pont-aven.jpg,contentment,contentment,awe,United States,western,test
+childe-hassam_street-in-portsmouth.jpg,Image/childe-hassam_street-in-portsmouth.jpg,contentment,contentment,awe,United States,western,test
+childe-hassam_village-scene-1885.jpg,Image/childe-hassam_village-scene-1885.jpg,contentment,contentment,amusement,United States,western,test
+claude-monet_edge-of-the-cliff-at-pourville.jpg,Image/claude-monet_edge-of-the-cliff-at-pourville.jpg,contentment,contentment,awe,France,western,test
+claude-monet_garden-in-bloom-at-sainte-addresse.jpg,Image/claude-monet_garden-in-bloom-at-sainte-addresse.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_monte-carlo-seen-from-roquebrune.jpg,Image/claude-monet_monte-carlo-seen-from-roquebrune.jpg,contentment,contentment,contentment,France,western,test
+claude-monet_morning-on-the-seine-near-giverny-1.jpg,Image/claude-monet_morning-on-the-seine-near-giverny-1.jpg,contentment,contentment,awe,France,western,test
+claude-monet_springtime-in-vetheuil.jpg,Image/claude-monet_springtime-in-vetheuil.jpg,contentment,contentment,contentment,France,western,test
+claude-monet_springtime-landscape.jpg,Image/claude-monet_springtime-landscape.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_street-in-saint-adresse.jpg,Image/claude-monet_street-in-saint-adresse.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_the-banks-of-the-seine-at-argenteuil.jpg,Image/claude-monet_the-banks-of-the-seine-at-argenteuil.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_the-blue-house-at-zaandam.jpg,Image/claude-monet_the-blue-house-at-zaandam.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_the-gorge-at-varengeville-late-afternoon.jpg,Image/claude-monet_the-gorge-at-varengeville-late-afternoon.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_the-landing-state.jpg,Image/claude-monet_the-landing-state.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_the-seine-near-vetheuil-stormy-weather.jpg,Image/claude-monet_the-seine-near-vetheuil-stormy-weather.jpg,contentment,contentment,amusement,France,western,test
+claude-monet_water-lilies-1917.jpg,Image/claude-monet_water-lilies-1917.jpg,awe,contentment,amusement,France,western,test
+claude-monet_women-in-the-garden.jpg,Image/claude-monet_women-in-the-garden.jpg,contentment,contentment,amusement,France,western,test
+constantin-artachino_winter-end.jpg,Image/constantin-artachino_winter-end.jpg,sadness,contentment,contentment,Romania,western,test
+constantine-maleas_lagoon-of-messolongi.jpg,Image/constantine-maleas_lagoon-of-messolongi.jpg,awe,contentment,contentment,Greece,western,test
+edgar-degas_before-the-race-1872.jpg,Image/edgar-degas_before-the-race-1872.jpg,excitement,contentment,amusement,France,western,test
+edgar-degas_children-on-a-doorstep-1872.jpg,Image/edgar-degas_children-on-a-doorstep-1872.jpg,contentment,contentment,contentment,France,western,test
+edgar-degas_two-dancers-entering-the-stage.jpg,Image/edgar-degas_two-dancers-entering-the-stage.jpg,contentment,contentment,excitement,France,western,test
+edouard-manet_portrait-of-a-lady.jpg,Image/edouard-manet_portrait-of-a-lady.jpg,awe,contentment,contentment,France,western,test
+eugene-boudin_empress-eugenie-on-the-beach-at-trouville-1863.jpg,Image/eugene-boudin_empress-eugenie-on-the-beach-at-trouville-1863.jpg,contentment,contentment,amusement,France,western,test
+eugene-boudin_the-beach-1894.jpg,Image/eugene-boudin_the-beach-1894.jpg,contentment,contentment,amusement,France,western,test
+eugene-boudin_trouville-1869.jpg,Image/eugene-boudin_trouville-1869.jpg,contentment,contentment,contentment,France,western,test
+fern-coppedge_old-house-point-pleasant.jpg,Image/fern-coppedge_old-house-point-pleasant.jpg,contentment,contentment,amusement,United States,western,test
+franz-marc_small-horse-picture-1909.jpg,Image/franz-marc_small-horse-picture-1909.jpg,contentment,contentment,amusement,Germany,western,test
+gustave-caillebotte_the-park-monceau.jpg,Image/gustave-caillebotte_the-park-monceau.jpg,contentment,contentment,amusement,France,western,test
+guy-rose_laguna.jpg,Image/guy-rose_laguna.jpg,awe,contentment,awe,United States,western,test
+henry-herbert-la-thangue_a-proven-al-fountain.jpg,Image/henry-herbert-la-thangue_a-proven-al-fountain.jpg,contentment,contentment,amusement,United Kingdom,western,test
+hoca-ali-riza_peyzaj.jpg,Image/hoca-ali-riza_peyzaj.jpg,contentment,contentment,amusement,Turkey,non-western,test
+ilya-mashkov_alupka-resort-park.jpg,Image/ilya-mashkov_alupka-resort-park.jpg,contentment,contentment,awe,Russia,non-western,test
+ivan-grohar_dekle-1893.jpg,Image/ivan-grohar_dekle-1893.jpg,sadness,sadness,contentment,Slovenia,western,test
+janos-tornyai_interior-1934.jpg,Image/janos-tornyai_interior-1934.jpg,contentment,sadness,contentment,Hungary,western,test
+joaquã­n-sorolla_fishing-nets-1893.jpg,Image/joaquã­n-sorolla_fishing-nets-1893.jpg,contentment,contentment,amusement,Spain,western,test
+joaquã­n-sorolla_portrait-of-dona-elena-ortuzar-blasco-ibanez.jpg,Image/joaquã­n-sorolla_portrait-of-dona-elena-ortuzar-blasco-ibanez.jpg,contentment,contentment,amusement,Spain,western,test
+joaquã­n-sorolla_the-alcazat-seville-1908.jpg,Image/joaquã­n-sorolla_the-alcazat-seville-1908.jpg,awe,contentment,something else,Spain,western,test
+joaquã­n-sorolla_valencia-couples-on-horseback-1916.jpg,Image/joaquã­n-sorolla_valencia-couples-on-horseback-1916.jpg,excitement,contentment,amusement,Spain,western,test
+john-henry-twachtman_mother-and-child-1.jpg,Image/john-henry-twachtman_mother-and-child-1.jpg,contentment,amusement,contentment,United States,western,test
+john-singer-sargent_boboli-1907.jpg,Image/john-singer-sargent_boboli-1907.jpg,awe,contentment,excitement,United States,western,test
+john-singer-sargent_in-the-orchard.jpg,Image/john-singer-sargent_in-the-orchard.jpg,contentment,contentment,amusement,United States,western,test
+john-singer-sargent_reconnoitering.jpg,Image/john-singer-sargent_reconnoitering.jpg,awe,sadness,contentment,United States,western,test
+john-singer-sargent_santa-maria-della-salute.jpg,Image/john-singer-sargent_santa-maria-della-salute.jpg,awe,awe,awe,United States,western,test
+john-singer-sargent_the-lake-of-tiberias.jpg,Image/john-singer-sargent_the-lake-of-tiberias.jpg,contentment,contentment,awe,United States,western,test
+john-singer-sargent_the-libreria-1904-1.jpg,Image/john-singer-sargent_the-libreria-1904-1.jpg,awe,contentment,contentment,United States,western,test
+john-singer-sargent_two-girls-with-parasols-at-fladbury-1889.jpg,Image/john-singer-sargent_two-girls-with-parasols-at-fladbury-1889.jpg,contentment,contentment,amusement,United States,western,test
+kimon-loghi_biarritz-beach.jpg,Image/kimon-loghi_biarritz-beach.jpg,awe,contentment,amusement,Romania,western,test
+konstantin-korovin_a-nothern-idyll-1886.jpg,Image/konstantin-korovin_a-nothern-idyll-1886.jpg,contentment,contentment,amusement,Russia,non-western,test
+konstantin-korovin_an-artist-s-studio-1894.jpg,Image/konstantin-korovin_an-artist-s-studio-1894.jpg,sadness,sadness,sadness,Russia,non-western,test
+konstantin-korovin_corner-of-the-province-street-in-pereslavl-1905.jpg,Image/konstantin-korovin_corner-of-the-province-street-in-pereslavl-1905.jpg,sadness,contentment,contentment,Russia,non-western,test
+lovis-corinth_a-mother-s-love-1911.jpg,Image/lovis-corinth_a-mother-s-love-1911.jpg,something else,contentment,contentment,Germany,western,test
+lucia-demetriade-balacescu_canceu-cu-lalele-i-m-rgele-albastre-1928.jpg,Image/lucia-demetriade-balacescu_canceu-cu-lalele-i-m-rgele-albastre-1928.jpg,contentment,contentment,amusement,Romania,western,test
+mary-cassatt_interior-of-a-tramway-passing-a-bridge-1891.jpg,Image/mary-cassatt_interior-of-a-tramway-passing-a-bridge-1891.jpg,amusement,contentment,contentment,United States,western,test
+mary-cassatt_mother-and-child-smiling-at-each-other-1908.jpg,Image/mary-cassatt_mother-and-child-smiling-at-each-other-1908.jpg,awe,contentment,contentment,United States,western,test
+mary-cassatt_on-the-water-1895.jpg,Image/mary-cassatt_on-the-water-1895.jpg,contentment,contentment,amusement,United States,western,test
+max-liebermann_portrait-of-richard-strauss-1918.jpg,Image/max-liebermann_portrait-of-richard-strauss-1918.jpg,contentment,contentment,contentment,Jewish,non-western,test
+max-liebermann_woman-with-goats.jpg,Image/max-liebermann_woman-with-goats.jpg,sadness,contentment,contentment,Jewish,non-western,test
+max-slevogt_portrait-of-julius-freund.jpg,Image/max-slevogt_portrait-of-julius-freund.jpg,contentment,contentment,contentment,Germany,western,test
+maxime-maufra_the-marais-salant.jpg,Image/maxime-maufra_the-marais-salant.jpg,something else,contentment,awe,France,western,test
+mikhail-nesterov_peonies-1908.jpg,Image/mikhail-nesterov_peonies-1908.jpg,contentment,contentment,amusement,Russia,non-western,test
+nicolae-darascu_landscape-from-saint-tropez-1911.jpg,Image/nicolae-darascu_landscape-from-saint-tropez-1911.jpg,contentment,contentment,amusement,Romania,western,test
+nicolae-vermont_spring-noon-1926.jpg,Image/nicolae-vermont_spring-noon-1926.jpg,contentment,contentment,amusement,Jewish,non-western,test
+nikolay-bogdanov-belsky_balinovo-landscape.jpg,Image/nikolay-bogdanov-belsky_balinovo-landscape.jpg,contentment,contentment,amusement,Russia,non-western,test
+nikolay-bogdanov-belsky_evening-angler.jpg,Image/nikolay-bogdanov-belsky_evening-angler.jpg,awe,contentment,amusement,Russia,non-western,test
+nikolay-bogdanov-belsky_sunny-morning.jpg,Image/nikolay-bogdanov-belsky_sunny-morning.jpg,contentment,contentment,amusement,Russia,non-western,test
+nikolay-bogdanov-belsky_waiting-for-the-ferry.jpg,Image/nikolay-bogdanov-belsky_waiting-for-the-ferry.jpg,contentment,contentment,amusement,Russia,non-western,test
+paul-cezanne_compotier-and-plate-of-biscuits-1877.jpg,Image/paul-cezanne_compotier-and-plate-of-biscuits-1877.jpg,excitement,contentment,contentment,France,western,test
+paul-gauguin_white-house-1885.jpg,Image/paul-gauguin_white-house-1885.jpg,contentment,contentment,awe,France,western,test
+philip-wilson-steer_girl-and-st-bernard-dog.jpg,Image/philip-wilson-steer_girl-and-st-bernard-dog.jpg,contentment,contentment,amusement,United Kingdom,western,test
+philip-wilson-steer_woman-sewing.jpg,Image/philip-wilson-steer_woman-sewing.jpg,contentment,contentment,amusement,United Kingdom,western,test
+pierre-auguste-renoir_anemones.jpg,Image/pierre-auguste-renoir_anemones.jpg,contentment,contentment,contentment,France,western,test
+pierre-auguste-renoir_conversation-in-a-rose-garden-1876.jpg,Image/pierre-auguste-renoir_conversation-in-a-rose-garden-1876.jpg,contentment,contentment,amusement,France,western,test
+pierre-auguste-renoir_figures-on-the-beach.jpg,Image/pierre-auguste-renoir_figures-on-the-beach.jpg,contentment,contentment,amusement,France,western,test
+pierre-auguste-renoir_girl-with-a-straw-hat-1.jpg,Image/pierre-auguste-renoir_girl-with-a-straw-hat-1.jpg,contentment,contentment,awe,France,western,test
+pierre-auguste-renoir_landscape-with-figures.jpg,Image/pierre-auguste-renoir_landscape-with-figures.jpg,contentment,contentment,amusement,France,western,test
+pierre-auguste-renoir_portrait-of-a-child.jpg,Image/pierre-auguste-renoir_portrait-of-a-child.jpg,contentment,sadness,contentment,France,western,test
+pierre-auguste-renoir_railway-bridge-at-chatou-1881.jpg,Image/pierre-auguste-renoir_railway-bridge-at-chatou-1881.jpg,contentment,contentment,amusement,France,western,test
+pierre-auguste-renoir_the-daughters-of-paul-durand-ruel-marie-theresa-and-jeanne-1882.jpg,Image/pierre-auguste-renoir_the-daughters-of-paul-durand-ruel-marie-theresa-and-jeanne-1882.jpg,contentment,contentment,amusement,France,western,test
+piet-mondrian_nature-died-with-sunflower-1907.jpg,Image/piet-mondrian_nature-died-with-sunflower-1907.jpg,contentment,contentment,sadness,Netherlands,western,test
+robert-julian-onderdonk_peach-orchard-on-mavericks-farm-1915.jpg,Image/robert-julian-onderdonk_peach-orchard-on-mavericks-farm-1915.jpg,contentment,excitement,excitement,United States,western,test
+rudolf-schweitzer-cumpana_mahala-de-bucure-ti-1940.jpg,Image/rudolf-schweitzer-cumpana_mahala-de-bucure-ti-1940.jpg,awe,contentment,awe,Romania,western,test
+samuel-mutzner_natur-static-cu-muschetar-1932.jpg,Image/samuel-mutzner_natur-static-cu-muschetar-1932.jpg,contentment,contentment,awe,Jewish,non-western,test
+stefan-luchian_at-nami-wood-cutter.jpg,Image/stefan-luchian_at-nami-wood-cutter.jpg,something else,contentment,contentment,Romania,western,test
+t.-c.-steele_along-the-creek-1905.jpg,Image/t.-c.-steele_along-the-creek-1905.jpg,contentment,contentment,awe,United States,western,test
+t.-c.-steele_meridian-street-thawing-weather-1887.jpg,Image/t.-c.-steele_meridian-street-thawing-weather-1887.jpg,sadness,sadness,awe,United States,western,test
+theo-van-rysselberghe_family-in-the-orchard-1890.jpg,Image/theo-van-rysselberghe_family-in-the-orchard-1890.jpg,contentment,contentment,amusement,Belgium,western,test
+valentin-serov_poster-for-the-saison-russe-at-the-theatre-du-chatelet-1909.jpg,Image/valentin-serov_poster-for-the-saison-russe-at-the-theatre-du-chatelet-1909.jpg,awe,contentment,amusement,Russia,non-western,test
+vasily-surikov_portrait-of-young-woman-1911.jpg,Image/vasily-surikov_portrait-of-young-woman-1911.jpg,contentment,contentment,contentment,Russia,non-western,test
+willard-metcalf_gloucester-harbour-sun.jpg,Image/willard-metcalf_gloucester-harbour-sun.jpg,contentment,contentment,amusement,United States,western,test
+willard-metcalf_morning-shadows.jpg,Image/willard-metcalf_morning-shadows.jpg,awe,contentment,amusement,United States,western,test
+william-merritt-chase_at-the-boat-landing.jpg,Image/william-merritt-chase_at-the-boat-landing.jpg,contentment,contentment,amusement,United States,western,test
+william-merritt-chase_girl-with-tambourine.jpg,Image/william-merritt-chase_girl-with-tambourine.jpg,contentment,sadness,sadness,United States,western,test
+william-merritt-chase_lady-with-a-rose.jpg,Image/william-merritt-chase_lady-with-a-rose.jpg,awe,awe,contentment,United States,western,test
+william-merritt-chase_shinnecock-landscape-with-figures.jpg,Image/william-merritt-chase_shinnecock-landscape-with-figures.jpg,contentment,contentment,amusement,United States,western,test
+william-merritt-chase_study-of-an-arab-girl.jpg,Image/william-merritt-chase_study-of-an-arab-girl.jpg,fear,fear,contentment,United States,western,test
+william-merritt-chase_venice.jpg,Image/william-merritt-chase_venice.jpg,contentment,contentment,contentment,United States,western,test
+el-greco_annunciation.jpg,Image/el-greco_annunciation.jpg,awe,awe,awe,Spain,western,test
+el-greco_st-dominic-praying.jpg,Image/el-greco_st-dominic-praying.jpg,sadness,sadness,awe,Spain,western,test
+hans-von-aachen_coronation-of-mary-1596.jpg,Image/hans-von-aachen_coronation-of-mary-1596.jpg,awe,contentment,contentment,Germany,western,test
+maerten-van-heemskerck_calvary-central-panel-of-a-triptych.jpg,Image/maerten-van-heemskerck_calvary-central-panel-of-a-triptych.jpg,sadness,fear,sadness,Netherlands,western,test
+paolo-veronese_apotheosis-of-venice-1585.jpg,Image/paolo-veronese_apotheosis-of-venice-1585.jpg,awe,awe,awe,Italy,western,test
+paolo-veronese_do-not-touch-me.jpg,Image/paolo-veronese_do-not-touch-me.jpg,awe,amusement,awe,Italy,western,test
+paolo-veronese_holy-family-with-sts-anthony-abbot-catherine-and-the-infant-john-the-baptist-1551.jpg,Image/paolo-veronese_holy-family-with-sts-anthony-abbot-catherine-and-the-infant-john-the-baptist-1551.jpg,something else,contentment,contentment,Italy,western,test
+paolo-veronese_rebecca-and-eliezer.jpg,Image/paolo-veronese_rebecca-and-eliezer.jpg,something else,sadness,contentment,Italy,western,test
+ellsworth-kelly_triangle-form-1951.jpg,Image/ellsworth-kelly_triangle-form-1951.jpg,something else,fear,contentment,United States,western,test
+enrico-castellani_topologema-2-1-1972.jpg,Image/enrico-castellani_topologema-2-1-1972.jpg,something else,contentment,awe,Italy,western,test
+jo-baer_cardinations-1974.jpg,Image/jo-baer_cardinations-1974.jpg,something else,awe,something else,United States,western,test
+leo-villareal_contemplating-the-void-2010.jpg,Image/leo-villareal_contemplating-the-void-2010.jpg,awe,contentment,something else,United States,western,test
+antonio-ligabue_tiger-s-head-1940.jpg,Image/antonio-ligabue_tiger-s-head-1940.jpg,fear,fear,fear,Italy,western,test
+edith-vonnegut_beefaroni-or-battle-in-the-aisles.jpg,Image/edith-vonnegut_beefaroni-or-battle-in-the-aisles.jpg,amusement,disgust,disgust,United States,western,test
+fernando-botero_ecce-homo.jpg,Image/fernando-botero_ecce-homo.jpg,amusement,amusement,contentment,Colombia,non-western,test
+fernando-botero_the-great-feast.jpg,Image/fernando-botero_the-great-feast.jpg,amusement,contentment,contentment,Colombia,non-western,test
+henri-rousseau_portrait-of-pierre-loti.jpg,Image/henri-rousseau_portrait-of-pierre-loti.jpg,amusement,contentment,contentment,France,western,test
+henri-rousseau_view-of-the-bridge-at-sevres-and-the-hills-at-clamart-st-cloud-and-bellevue-1908.jpg,Image/henri-rousseau_view-of-the-bridge-at-sevres-and-the-hills-at-clamart-st-cloud-and-bellevue-1908.jpg,amusement,contentment,awe,France,western,test
+kateryna-bilokur_grove-1955.jpg,Image/kateryna-bilokur_grove-1955.jpg,contentment,contentment,contentment,Ukraine,western,test
+kazimir-malevich_look-vistula-is-near-poster-1914.jpg,Image/kazimir-malevich_look-vistula-is-near-poster-1914.jpg,amusement,amusement,something else,Ukraine,western,test
+kazimir-malevich_on-the-cemetery-1911.jpg,Image/kazimir-malevich_on-the-cemetery-1911.jpg,sadness,sadness,contentment,Ukraine,western,test
+marc-chagall_moses-and-the-striking-rock-1931.jpg,Image/marc-chagall_moses-and-the-striking-rock-1931.jpg,something else,sadness,contentment,France,western,test
+pablo-picasso_jug-with-handle-1954.jpg,Image/pablo-picasso_jug-with-handle-1954.jpg,contentment,awe,awe,Spain,western,test
+pablo-picasso_painter-and-his-palette-1967.jpg,Image/pablo-picasso_painter-and-his-palette-1967.jpg,amusement,fear,fear,Spain,western,test
+edward-hopper_blackhead-monhegan-1919.jpg,Image/edward-hopper_blackhead-monhegan-1919.jpg,awe,contentment,contentment,United States,western,test
+edward-hopper_intermission-also-known-as-intermedio.jpg,Image/edward-hopper_intermission-also-known-as-intermedio.jpg,sadness,contentment,contentment,United States,western,test
+edward-hopper_not_detected_235604.jpg,Image/edward-hopper_not_detected_235604.jpg,amusement,sadness,contentment,United States,western,test
+albrecht-altdorfer_danube-landscape-near-regensburg-with-the-scarecrow-hill.jpg,Image/albrecht-altdorfer_danube-landscape-near-regensburg-with-the-scarecrow-hill.jpg,contentment,contentment,amusement,Germany,western,test
+albrecht-altdorfer_mary-in-glory-1526.jpg,Image/albrecht-altdorfer_mary-in-glory-1526.jpg,awe,contentment,awe,Germany,western,test
+albrecht-durer_st-catherine.jpg,Image/albrecht-durer_st-catherine.jpg,fear,contentment,contentment,Germany,western,test
+hans-memling_angel-holding-an-olive-branch-1480.jpg,Image/hans-memling_angel-holding-an-olive-branch-1480.jpg,awe,contentment,contentment,Belgium,western,test
+hieronymus-bosch_the-garden-of-earthly-delights-1516-8.jpg,Image/hieronymus-bosch_the-garden-of-earthly-delights-1516-8.jpg,amusement,contentment,excitement,Netherlands,western,test
+jean-hey_the-bourbon-altarpiece-the-moulins-triptych.jpg,Image/jean-hey_the-bourbon-altarpiece-the-moulins-triptych.jpg,awe,contentment,contentment,France,western,test
+konrad-witz_esther-before-ahasuerus.jpg,Image/konrad-witz_esther-before-ahasuerus.jpg,amusement,amusement,contentment,Germany,western,test
+lucas-cranach-the-elder_arrest-of-christ-1538.jpg,Image/lucas-cranach-the-elder_arrest-of-christ-1538.jpg,fear,fear,anger,Germany,western,test
+martin-schongauer_woman-with-a-wreath-of-oak-leaves.jpg,Image/martin-schongauer_woman-with-a-wreath-of-oak-leaves.jpg,awe,contentment,contentment,Germany,western,test
+robert-campin_madonna-and-child-in-a-garden.jpg,Image/robert-campin_madonna-and-child-in-a-garden.jpg,awe,contentment,contentment,Belgium,western,test
+georges-seurat_the-bridge-at-courbevoie-1887.jpg,Image/georges-seurat_the-bridge-at-courbevoie-1887.jpg,contentment,contentment,amusement,France,western,test
+henri-edmond-cross_ranelagh.jpg,Image/henri-edmond-cross_ranelagh.jpg,contentment,contentment,amusement,France,western,test
+henri-edmond-cross_the-farm-morning.jpg,Image/henri-edmond-cross_the-farm-morning.jpg,contentment,contentment,excitement,France,western,test
+henri-martin_cliff-with-houses.jpg,Image/henri-martin_cliff-with-houses.jpg,contentment,contentment,awe,France,western,test
+theo-van-rysselberghe_moonlight-night-in-boulogne.jpg,Image/theo-van-rysselberghe_moonlight-night-in-boulogne.jpg,awe,contentment,awe,Belgium,western,test
+aldo-mondino_ritratto-di-georgia-o-keeffe-1993.jpg,Image/aldo-mondino_ritratto-di-georgia-o-keeffe-1993.jpg,sadness,fear,sadness,Italy,western,test
+allen-jones_one-way-traffic-1974.jpg,Image/allen-jones_one-way-traffic-1974.jpg,excitement,contentment,amusement,United Kingdom,western,test
+andy-warhol_muhammad-ali-2.jpg,Image/andy-warhol_muhammad-ali-2.jpg,sadness,fear,sadness,United States,western,test
+claes-oldenburg_spoonbridge-and-cherry-collaboration-with-van-bruggen-1988.jpg,Image/claes-oldenburg_spoonbridge-and-cherry-collaboration-with-van-bruggen-1988.jpg,amusement,awe,awe,United States,western,test
+edward-ruscha_lisp-1968.jpg,Image/edward-ruscha_lisp-1968.jpg,amusement,awe,something else,United States,western,test
+hiro-yamagata_hedge-trimmer.jpg,Image/hiro-yamagata_hedge-trimmer.jpg,contentment,contentment,amusement,Japan,non-western,test
+hiro-yamagata_metro-1987.jpg,Image/hiro-yamagata_metro-1987.jpg,excitement,contentment,amusement,Japan,non-western,test
+hiro-yamagata_notre-dame-1980.jpg,Image/hiro-yamagata_notre-dame-1980.jpg,amusement,contentment,amusement,Japan,non-western,test
+red-grooms_elvis-1987.jpg,Image/red-grooms_elvis-1987.jpg,amusement,contentment,amusement,United States,western,test
+anna-ostroumova-lebedeva_view-of-kislovodsk.jpg,Image/anna-ostroumova-lebedeva_view-of-kislovodsk.jpg,contentment,contentment,awe,Russia,non-western,test
+arshile-gorky_leonora-portnoff.jpg,Image/arshile-gorky_leonora-portnoff.jpg,awe,contentment,sadness,United States,western,test
+arshile-gorky_still-life-of-flower.jpg,Image/arshile-gorky_still-life-of-flower.jpg,contentment,contentment,amusement,United States,western,test
+bertalan-por_landscape-in-krahovice-1914.jpg,Image/bertalan-por_landscape-in-krahovice-1914.jpg,contentment,contentment,awe,Hungary,western,test
+carlos-botelho_lisbon-s-cristov-o-1937.jpg,Image/carlos-botelho_lisbon-s-cristov-o-1937.jpg,contentment,contentment,something else,Portugal,western,test
+constantin-blendea_still-life-1.jpg,Image/constantin-blendea_still-life-1.jpg,contentment,contentment,something else,Romania,western,test
+constantin-piliuta_vase-with-white-flowers-1996.jpg,Image/constantin-piliuta_vase-with-white-flowers-1996.jpg,contentment,contentment,amusement,Romania,western,test
+corneliu-baba_portrait-of-the-art-collector-zambaccian.jpg,Image/corneliu-baba_portrait-of-the-art-collector-zambaccian.jpg,sadness,sadness,sadness,Romania,western,test
+edouard-cortes_boulevard-de-la-madeleine-winter.jpg,Image/edouard-cortes_boulevard-de-la-madeleine-winter.jpg,contentment,contentment,amusement,France,western,test
+edouard-cortes_in-three-fourths.jpg,Image/edouard-cortes_in-three-fourths.jpg,sadness,sadness,contentment,France,western,test
+ferdynand-ruszczyc_fragment-lasu.jpg,Image/ferdynand-ruszczyc_fragment-lasu.jpg,contentment,contentment,awe,Poland,western,test
+georges-seurat_study-with-figures-study-for-la-grande-jatte-1885.jpg,Image/georges-seurat_study-with-figures-study-for-la-grande-jatte-1885.jpg,contentment,contentment,amusement,France,western,test
+gustave-loiseau_poplars-by-the-eau-river-1903.jpg,Image/gustave-loiseau_poplars-by-the-eau-river-1903.jpg,contentment,contentment,amusement,France,western,test
+gustave-loiseau_the-seine-at-pontoise.jpg,Image/gustave-loiseau_the-seine-at-pontoise.jpg,contentment,contentment,awe,France,western,test
+henri-catargi_still-life-with-seashell-1972.jpg,Image/henri-catargi_still-life-with-seashell-1972.jpg,contentment,contentment,contentment,Romania,western,test
+henri-matisse_calla-lilies-irises-and-mimosas-1913.jpg,Image/henri-matisse_calla-lilies-irises-and-mimosas-1913.jpg,excitement,contentment,amusement,France,western,test
+kazimir-malevich_rest-society-in-top-hats-1908.jpg,Image/kazimir-malevich_rest-society-in-top-hats-1908.jpg,amusement,contentment,awe,Ukraine,western,test
+le-pho_les-poppies.jpg,Image/le-pho_les-poppies.jpg,contentment,contentment,amusement,France,western,test
+le-pho_maternity.jpg,Image/le-pho_maternity.jpg,contentment,contentment,contentment,France,western,test
+maurice-de-vlaminck_near-the-estuary-of-the-seine.jpg,Image/maurice-de-vlaminck_near-the-estuary-of-the-seine.jpg,contentment,contentment,awe,France,western,test
+maurice-de-vlaminck_view-of-a-village-with-red-roofs.jpg,Image/maurice-de-vlaminck_view-of-a-village-with-red-roofs.jpg,contentment,contentment,amusement,France,western,test
+maurice-denis_two-studies-of-a-nude-outdoors.jpg,Image/maurice-denis_two-studies-of-a-nude-outdoors.jpg,contentment,contentment,amusement,France,western,test
+maurice-utrillo_view-of-montmagny.jpg,Image/maurice-utrillo_view-of-montmagny.jpg,contentment,contentment,amusement,France,western,test
+maxime-maufra_the-embankment-of-lagny-under-flood-water-1908.jpg,Image/maxime-maufra_the-embankment-of-lagny-under-flood-water-1908.jpg,contentment,contentment,amusement,France,western,test
+moise-kisling_grand-bouquet-of-mimosa-1942.jpg,Image/moise-kisling_grand-bouquet-of-mimosa-1942.jpg,contentment,contentment,contentment,France,western,test
+moise-kisling_reclining-nude-in-the-leaves-1918(1).jpg,Image/moise-kisling_reclining-nude-in-the-leaves-1918(1).jpg,contentment,contentment,amusement,France,western,test
+nicolae-tonitza_lighthouse-in-balchik.jpg,Image/nicolae-tonitza_lighthouse-in-balchik.jpg,contentment,contentment,amusement,Romania,western,test
+oleksandr-bogomazov_white-night-finland-1911.jpg,Image/oleksandr-bogomazov_white-night-finland-1911.jpg,contentment,contentment,excitement,Ukraine,western,test
+panayiotis-tetsis_boat-1978.jpg,Image/panayiotis-tetsis_boat-1978.jpg,fear,sadness,contentment,Greece,western,test
+paul-cezanne_cote-du-galet-at-pontoise.jpg,Image/paul-cezanne_cote-du-galet-at-pontoise.jpg,contentment,contentment,amusement,France,western,test
+paul-cezanne_dessert-1877.jpg,Image/paul-cezanne_dessert-1877.jpg,contentment,contentment,contentment,France,western,test
+paul-cezanne_still-life-with-apples-a-bottle-and-a-milk-pot.jpg,Image/paul-cezanne_still-life-with-apples-a-bottle-and-a-milk-pot.jpg,contentment,contentment,contentment,France,western,test
+paul-cezanne_tall-trees-at-the-jas-de-bouffan-1887.jpg,Image/paul-cezanne_tall-trees-at-the-jas-de-bouffan-1887.jpg,contentment,contentment,amusement,France,western,test
+paul-cezanne_the-gulf-of-marseille-seen-from-l-estaque-1.jpg,Image/paul-cezanne_the-gulf-of-marseille-seen-from-l-estaque-1.jpg,contentment,contentment,amusement,France,western,test
+paul-cezanne_the-gulf-of-marseille-seen-from-l-estaque.jpg,Image/paul-cezanne_the-gulf-of-marseille-seen-from-l-estaque.jpg,contentment,contentment,amusement,France,western,test
+paul-gauguin_a-seashore-1887.jpg,Image/paul-gauguin_a-seashore-1887.jpg,contentment,contentment,amusement,France,western,test
+paul-gauguin_breton-fisherman-1888.jpg,Image/paul-gauguin_breton-fisherman-1888.jpg,awe,contentment,contentment,France,western,test
+pyotr-konchalovsky_breads-1920.jpg,Image/pyotr-konchalovsky_breads-1920.jpg,contentment,contentment,contentment,Russia,non-western,test
+vincent-van-gogh_a-group-of-pine-trees-near-a-house-1889(1).jpg,Image/vincent-van-gogh_a-group-of-pine-trees-near-a-house-1889(1).jpg,contentment,fear,contentment,Netherlands,western,test
+vincent-van-gogh_apricot-trees-in-blossom-1888(1).jpg,Image/vincent-van-gogh_apricot-trees-in-blossom-1888(1).jpg,contentment,contentment,amusement,Netherlands,western,test
+vincent-van-gogh_cottages-and-cypresses-reminiscence-of-the-north-1890(1).jpg,Image/vincent-van-gogh_cottages-and-cypresses-reminiscence-of-the-north-1890(1).jpg,fear,contentment,contentment,Netherlands,western,test
+vincent-van-gogh_head-of-a-man-with-a-hat-a-perspective-frame-and-other-sketches-1890(1).jpg,Image/vincent-van-gogh_head-of-a-man-with-a-hat-a-perspective-frame-and-other-sketches-1890(1).jpg,amusement,sadness,contentment,Netherlands,western,test
+vincent-van-gogh_landscape-with-bridge-across-the-oise-1890.jpg,Image/vincent-van-gogh_landscape-with-bridge-across-the-oise-1890.jpg,awe,contentment,contentment,Netherlands,western,test
+vincent-van-gogh_les-alyscamps-1888(2).jpg,Image/vincent-van-gogh_les-alyscamps-1888(2).jpg,amusement,contentment,awe,Netherlands,western,test
+vincent-van-gogh_self-portrait-1887-4.jpg,Image/vincent-van-gogh_self-portrait-1887-4.jpg,contentment,fear,awe,Netherlands,western,test
+vincent-van-gogh_self-portrait-1889-3.jpg,Image/vincent-van-gogh_self-portrait-1889-3.jpg,sadness,contentment,sadness,Netherlands,western,test
+aleksey-savrasov_country-scene.jpg,Image/aleksey-savrasov_country-scene.jpg,fear,contentment,contentment,Russia,non-western,test
+aleksey-savrasov_summer-landscape-1850.jpg,Image/aleksey-savrasov_summer-landscape-1850.jpg,contentment,contentment,amusement,Russia,non-western,test
+aleksey-savrasov_the-death-of-the-ship-at-sea-1862.jpg,Image/aleksey-savrasov_the-death-of-the-ship-at-sea-1862.jpg,fear,fear,fear,Russia,non-western,test
+alfred-sisley_still-life-heron-with-spread-wings-1867.jpg,Image/alfred-sisley_still-life-heron-with-spread-wings-1867.jpg,sadness,fear,sadness,France,western,test
+anders-zorn_portrait-of-fru-lisen-samson-nee-hirsch-arranging-flowers-at-a-window-1881.jpg,Image/anders-zorn_portrait-of-fru-lisen-samson-nee-hirsch-arranging-flowers-at-a-window-1881.jpg,contentment,contentment,contentment,Sweden,western,test
+boris-kustodiev_grazing-horses-1909.jpg,Image/boris-kustodiev_grazing-horses-1909.jpg,contentment,contentment,amusement,Russia,non-western,test
+boris-kustodiev_portrait-of-countess-grabowska-1917.jpg,Image/boris-kustodiev_portrait-of-countess-grabowska-1917.jpg,contentment,contentment,contentment,Russia,non-western,test
+boris-kustodiev_staraya-russa-1921.jpg,Image/boris-kustodiev_staraya-russa-1921.jpg,contentment,contentment,contentment,Russia,non-western,test
+camille-corot_a-chestnut-wood-among-the-rocks-1835.jpg,Image/camille-corot_a-chestnut-wood-among-the-rocks-1835.jpg,contentment,contentment,amusement,France,western,test
+camille-corot_geneva-view-of-part-of-the-city.jpg,Image/camille-corot_geneva-view-of-part-of-the-city.jpg,contentment,contentment,awe,France,western,test
+camille-corot_the-ponds-of-ville-d-avray.jpg,Image/camille-corot_the-ponds-of-ville-d-avray.jpg,contentment,contentment,amusement,France,western,test
+camille-corot_view-of-saint-lo-with-the-river-vire-in-the-foreground.jpg,Image/camille-corot_view-of-saint-lo-with-the-river-vire-in-the-foreground.jpg,awe,contentment,contentment,France,western,test
+camille-pissarro_a-square-in-la-roche-guyon.jpg,Image/camille-pissarro_a-square-in-la-roche-guyon.jpg,contentment,sadness,contentment,France,western,test
+charles-francois-daubigny_ducklings-in-a-river-landscape-1874.jpg,Image/charles-francois-daubigny_ducklings-in-a-river-landscape-1874.jpg,awe,contentment,contentment,France,western,test
+constantin-artachino_turk.jpg,Image/constantin-artachino_turk.jpg,contentment,sadness,contentment,Romania,western,test
+david-burliuk_portrait-of-sergei-eisenstein-1932.jpg,Image/david-burliuk_portrait-of-sergei-eisenstein-1932.jpg,amusement,amusement,contentment,Ukraine,western,test
+eugene-boudin_near-honfleur.jpg,Image/eugene-boudin_near-honfleur.jpg,sadness,contentment,contentment,France,western,test
+fyodor-bronnikov_cursed-field-the-place-of-execution-in-ancient-rome-crucified-slave-1878.jpg,Image/fyodor-bronnikov_cursed-field-the-place-of-execution-in-ancient-rome-crucified-slave-1878.jpg,sadness,fear,sadness,Russia,non-western,test
+fyodor-vasilyev_after-a-rain-spring-in-st-petersburg.jpg,Image/fyodor-vasilyev_after-a-rain-spring-in-st-petersburg.jpg,sadness,contentment,contentment,Russia,non-western,test
+fyodor-vasilyev_forest-road-1869.jpg,Image/fyodor-vasilyev_forest-road-1869.jpg,contentment,contentment,amusement,Russia,non-western,test
+georgios-jakobides_reversal-of-roles-1892.jpg,Image/georgios-jakobides_reversal-of-roles-1892.jpg,amusement,contentment,amusement,Greece,western,test
+giovanni-boldini_portrait-of-guiseppe-verdi-1813-1901.jpg,Image/giovanni-boldini_portrait-of-guiseppe-verdi-1813-1901.jpg,awe,contentment,contentment,Italy,western,test
+grigoriy-myasoyedov_portrait-of-shishkin-1891.jpg,Image/grigoriy-myasoyedov_portrait-of-shishkin-1891.jpg,awe,contentment,contentment,Russia,non-western,test
+henri-fantin-latour_peaches-1869.jpg,Image/henri-fantin-latour_peaches-1869.jpg,contentment,contentment,something else,France,western,test
+henri-fantin-latour_yellow-and-red-roses-1879.jpg,Image/henri-fantin-latour_yellow-and-red-roses-1879.jpg,contentment,contentment,something else,France,western,test
+ilya-repin_emperor-nicholas-i-and-empress-alexandra-feodorovna-1908.jpg,Image/ilya-repin_emperor-nicholas-i-and-empress-alexandra-feodorovna-1908.jpg,contentment,contentment,amusement,Russia,non-western,test
+ilya-repin_portrait-of-dmitri-sergueyevich-merezhkovsky.jpg,Image/ilya-repin_portrait-of-dmitri-sergueyevich-merezhkovsky.jpg,sadness,sadness,contentment,Russia,non-western,test
+ilya-repin_the-village-of-mokhnachi-1877.jpg,Image/ilya-repin_the-village-of-mokhnachi-1877.jpg,contentment,sadness,contentment,Russia,non-western,test
+isaac-levitan_a-yard.jpg,Image/isaac-levitan_a-yard.jpg,contentment,contentment,excitement,Russia,non-western,test
+isaac-levitan_by-the-riverside.jpg,Image/isaac-levitan_by-the-riverside.jpg,contentment,contentment,awe,Russia,non-western,test
+isaac-levitan_edge-of-forest.jpg,Image/isaac-levitan_edge-of-forest.jpg,contentment,contentment,awe,Russia,non-western,test
+isaac-levitan_in-the-vicinity-of-bordiguera-in-the-north-of-italy-1890.jpg,Image/isaac-levitan_in-the-vicinity-of-bordiguera-in-the-north-of-italy-1890.jpg,contentment,contentment,contentment,Russia,non-western,test
+isaac-levitan_path-in-the-forest.jpg,Image/isaac-levitan_path-in-the-forest.jpg,contentment,contentment,amusement,Russia,non-western,test
+isaac-levitan_small-hut-in-a-meadow.jpg,Image/isaac-levitan_small-hut-in-a-meadow.jpg,contentment,contentment,amusement,Russia,non-western,test
+isaac-levitan_the-last-rays-of-the-sun-a-lake-1899.jpg,Image/isaac-levitan_the-last-rays-of-the-sun-a-lake-1899.jpg,excitement,contentment,contentment,Russia,non-western,test
+isaac-levitan_village-savvinskaya-near-zvenigorod-1884.jpg,Image/isaac-levitan_village-savvinskaya-near-zvenigorod-1884.jpg,sadness,contentment,contentment,Russia,non-western,test
+isaac-levitan_volga-a-calm-day-1895.jpg,Image/isaac-levitan_volga-a-calm-day-1895.jpg,awe,contentment,contentment,Russia,non-western,test
+ivan-shishkin_a-walk-in-the-forest-1869.jpg,Image/ivan-shishkin_a-walk-in-the-forest-1869.jpg,contentment,contentment,amusement,Russia,non-western,test
+ivan-shishkin_fir-1.jpg,Image/ivan-shishkin_fir-1.jpg,fear,contentment,amusement,Russia,non-western,test
+ivan-shishkin_fir-forest-1890-1.jpg,Image/ivan-shishkin_fir-forest-1890-1.jpg,fear,fear,contentment,Russia,non-western,test
+ivan-shishkin_oak-1865.jpg,Image/ivan-shishkin_oak-1865.jpg,awe,contentment,amusement,Russia,non-western,test
+ivan-shishkin_path-in-the-forest-1891.jpg,Image/ivan-shishkin_path-in-the-forest-1891.jpg,contentment,sadness,awe,Russia,non-western,test
+ivan-shishkin_view-of-the-yelabuga-1861.jpg,Image/ivan-shishkin_view-of-the-yelabuga-1861.jpg,contentment,contentment,something else,Russia,non-western,test
+james-tissot_judaic-ornament-1889-1.jpg,Image/james-tissot_judaic-ornament-1889-1.jpg,contentment,contentment,excitement,France,western,test
+james-tissot_london-visitors.jpg,Image/james-tissot_london-visitors.jpg,awe,contentment,contentment,France,western,test
+john-singer-sargent_charles-deering.jpg,Image/john-singer-sargent_charles-deering.jpg,awe,contentment,contentment,United States,western,test
+john-singer-sargent_mrs-knowles-and-her-children-1902.jpg,Image/john-singer-sargent_mrs-knowles-and-her-children-1902.jpg,contentment,contentment,amusement,United States,western,test
+m.c.-escher_mumified-frog.jpg,Image/m.c.-escher_mumified-frog.jpg,fear,fear,awe,Netherlands,western,test
+martiros-saryan_spring-flowers-1947.jpg,Image/martiros-saryan_spring-flowers-1947.jpg,contentment,contentment,amusement,Armenia,western,test
+mikhail-lebedev_landscape-with-cows.jpg,Image/mikhail-lebedev_landscape-with-cows.jpg,awe,contentment,contentment,Russia,non-western,test
+mikhail-nesterov_portrait-of-elizaveta-tal-1936.jpg,Image/mikhail-nesterov_portrait-of-elizaveta-tal-1936.jpg,contentment,contentment,awe,Russia,non-western,test
+mykola-pymonenko_fabric-trading-woman-1901.jpg,Image/mykola-pymonenko_fabric-trading-woman-1901.jpg,contentment,sadness,contentment,Ukraine,western,test
+n.c.-wyeth_knife-fight-between-pirates.jpg,Image/n.c.-wyeth_knife-fight-between-pirates.jpg,fear,fear,anger,United States,western,test
+peder-severin-kroyer_hip-hip-hurrah-1888.jpg,Image/peder-severin-kroyer_hip-hip-hurrah-1888.jpg,contentment,contentment,amusement,Denmark,non-western,test
+peder-severin-kroyer_marie-in-the-garden-1895.jpg,Image/peder-severin-kroyer_marie-in-the-garden-1895.jpg,contentment,contentment,contentment,Denmark,non-western,test
+pyotr-konchalovsky_still-life-lilacs-in-a-basket-heroic-1933.jpg,Image/pyotr-konchalovsky_still-life-lilacs-in-a-basket-heroic-1933.jpg,awe,contentment,contentment,Russia,non-western,test
+pyotr-konchalovsky_still-life-white-partridge-1953.jpg,Image/pyotr-konchalovsky_still-life-white-partridge-1953.jpg,contentment,contentment,contentment,Russia,non-western,test
+salvador-dali_the-virgin-of-guadalupe.jpg,Image/salvador-dali_the-virgin-of-guadalupe.jpg,awe,contentment,awe,Spain,western,test
+theodore-rousseau_side-of-the-valley-of-saint-vincent-auvergne-1830.jpg,Image/theodore-rousseau_side-of-the-valley-of-saint-vincent-auvergne-1830.jpg,contentment,contentment,amusement,France,western,test
+thomas-eakins_photograph-1910-16.jpg,Image/thomas-eakins_photograph-1910-16.jpg,something else,contentment,contentment,United States,western,test
+thomas-eakins_portrait-of-harriet-husson-carville.jpg,Image/thomas-eakins_portrait-of-harriet-husson-carville.jpg,sadness,sadness,contentment,United States,western,test
+valentin-serov_portrait-of-maria-morozova-1897.jpg,Image/valentin-serov_portrait-of-maria-morozova-1897.jpg,contentment,contentment,amusement,Russia,non-western,test
+valentin-serov_self-portrait-1885-1.jpg,Image/valentin-serov_self-portrait-1885-1.jpg,something else,contentment,contentment,Russia,non-western,test
+vasily-perov_portrait-of-n-f-rezanov-1868.jpg,Image/vasily-perov_portrait-of-n-f-rezanov-1868.jpg,amusement,contentment,contentment,Russia,non-western,test
+vasily-perov_portrait-of-yelena-perova-n-e-scheins-the-artist-s-first-wife-1869.jpg,Image/vasily-perov_portrait-of-yelena-perova-n-e-scheins-the-artist-s-first-wife-1869.jpg,contentment,contentment,contentment,Russia,non-western,test
+vasily-polenov_bethlehem-1882.jpg,Image/vasily-polenov_bethlehem-1882.jpg,contentment,contentment,awe,Russia,non-western,test
+vasily-polenov_monastery-over-the-river-1898.jpg,Image/vasily-polenov_monastery-over-the-river-1898.jpg,contentment,contentment,awe,Russia,non-western,test
+vasily-surikov_in-crimea-1913.jpg,Image/vasily-surikov_in-crimea-1913.jpg,contentment,contentment,amusement,Russia,non-western,test
+vasily-vereshchagin_main-street-in-samarkand-from-the-height-of-the-citadel-in-the-early-morning-1870.jpg,Image/vasily-vereshchagin_main-street-in-samarkand-from-the-height-of-the-citadel-in-the-early-morning-1870.jpg,something else,contentment,awe,Russia,non-western,test
+vasily-vereshchagin_retired-butler-1888.jpg,Image/vasily-vereshchagin_retired-butler-1888.jpg,amusement,contentment,contentment,Russia,non-western,test
+vasily-vereshchagin_the-northern-dvina-1894.jpg,Image/vasily-vereshchagin_the-northern-dvina-1894.jpg,contentment,contentment,amusement,Russia,non-western,test
+vincent-van-gogh_at-the-plough-1884(1).jpg,Image/vincent-van-gogh_at-the-plough-1884(1).jpg,contentment,contentment,contentment,Netherlands,western,test
+vincent-van-gogh_entrance-to-the-old-tower-1885(1).jpg,Image/vincent-van-gogh_entrance-to-the-old-tower-1885(1).jpg,fear,sadness,fear,Netherlands,western,test
+vincent-van-gogh_five-men-and-a-child-in-the-snow-1883(1).jpg,Image/vincent-van-gogh_five-men-and-a-child-in-the-snow-1883(1).jpg,sadness,fear,contentment,Netherlands,western,test
+vincent-van-gogh_man-carrying-peat-1882.jpg,Image/vincent-van-gogh_man-carrying-peat-1882.jpg,sadness,sadness,contentment,Netherlands,western,test
+vincent-van-gogh_peasant-boy-1885.jpg,Image/vincent-van-gogh_peasant-boy-1885.jpg,sadness,sadness,sadness,Netherlands,western,test
+vincent-van-gogh_road-with-pollard-willows-1881-2.jpg,Image/vincent-van-gogh_road-with-pollard-willows-1881-2.jpg,contentment,sadness,contentment,Netherlands,western,test
+vincent-van-gogh_sower-1882-1.jpg,Image/vincent-van-gogh_sower-1882-1.jpg,fear,sadness,contentment,Netherlands,western,test
+vincent-van-gogh_studies-for-figures-carrying-bundles-of-wood-1885.jpg,Image/vincent-van-gogh_studies-for-figures-carrying-bundles-of-wood-1885.jpg,something else,sadness,sadness,Netherlands,western,test
+vincent-van-gogh_wheat-harvest-1884.jpg,Image/vincent-van-gogh_wheat-harvest-1884.jpg,sadness,contentment,contentment,Netherlands,western,test
+vladimir-makovsky_ukrainian-landscape-with-huts-1901.jpg,Image/vladimir-makovsky_ukrainian-landscape-with-huts-1901.jpg,contentment,contentment,contentment,Russia,non-western,test
+volodymyr-orlovsky_in-the-meadow-thickets-podolsk-province-1890.jpg,Image/volodymyr-orlovsky_in-the-meadow-thickets-podolsk-province-1890.jpg,contentment,contentment,amusement,Ukraine,western,test
+winslow-homer_bass-fishing-florida.jpg,Image/winslow-homer_bass-fishing-florida.jpg,contentment,contentment,excitement,United States,western,test
+benjamin-west_epponia-giving-bread-to-her-husband-sabinus-in-concealment.jpg,Image/benjamin-west_epponia-giving-bread-to-her-husband-sabinus-in-concealment.jpg,fear,contentment,contentment,United States,western,test
+bernardo-bellotto_cracow-suburb-seen-from-the-cracow-gate.jpg,Image/bernardo-bellotto_cracow-suburb-seen-from-the-cracow-gate.jpg,awe,contentment,contentment,Italy,western,test
+canaletto_view-of-the-church-and-the-doge-s-palace-from-the-procuratie-vecchie.jpg,Image/canaletto_view-of-the-church-and-the-doge-s-palace-from-the-procuratie-vecchie.jpg,awe,contentment,awe,Italy,western,test
+francois-boucher_portrait-of-the-artist-s-wife-1743.jpg,Image/francois-boucher_portrait-of-the-artist-s-wife-1743.jpg,amusement,contentment,contentment,France,western,test
+fyodor-rokotov_portrait-of-v-n-surovtseva.jpg,Image/fyodor-rokotov_portrait-of-v-n-surovtseva.jpg,contentment,contentment,amusement,Russia,non-western,test
+giovanni-domenico-tiepolo_landscape-with-sitting-farmer-1757.jpg,Image/giovanni-domenico-tiepolo_landscape-with-sitting-farmer-1757.jpg,contentment,sadness,contentment,Italy,western,test
+giovanni-domenico-tiepolo_virgin-and-child-with-saints.jpg,Image/giovanni-domenico-tiepolo_virgin-and-child-with-saints.jpg,awe,contentment,contentment,Italy,western,test
+hubert-robert_the-water-jet-1794.jpg,Image/hubert-robert_the-water-jet-1794.jpg,contentment,contentment,amusement,France,western,test
+joshua-reynolds_lady-caroline-howard.jpg,Image/joshua-reynolds_lady-caroline-howard.jpg,sadness,contentment,contentment,United Kingdom,western,test
+joshua-reynolds_mrs-richard-crofts.jpg,Image/joshua-reynolds_mrs-richard-crofts.jpg,awe,contentment,contentment,United Kingdom,western,test
+maurice-quentin-de-la-tour_prince-charles-edward-stewart.jpg,Image/maurice-quentin-de-la-tour_prince-charles-edward-stewart.jpg,something else,contentment,contentment,France,western,test
+thomas-gainsborough_miss-elizabeth-haverfield.jpg,Image/thomas-gainsborough_miss-elizabeth-haverfield.jpg,awe,contentment,amusement,United Kingdom,western,test
+albert-bierstadt_mormon-boy-salt-lake-city-1863.jpg,Image/albert-bierstadt_mormon-boy-salt-lake-city-1863.jpg,sadness,contentment,sadness,United States,western,test
+albert-bierstadt_rocky-mountain-big-horns.jpg,Image/albert-bierstadt_rocky-mountain-big-horns.jpg,contentment,contentment,something else,United States,western,test
+alexander-ivanov_italian-scene-1838.jpg,Image/alexander-ivanov_italian-scene-1838.jpg,contentment,contentment,excitement,Russia,non-western,test
+alexander-shilov_nana-1989(4).jpg,Image/alexander-shilov_nana-1989(4).jpg,awe,contentment,contentment,Russia,non-western,test
+alexander-shilov_shepherd-1975.jpg,Image/alexander-shilov_shepherd-1975.jpg,awe,sadness,contentment,Russia,non-western,test
+arthur-hughes_the-yellow-sand.jpg,Image/arthur-hughes_the-yellow-sand.jpg,contentment,contentment,amusement,United Kingdom,western,test
+dante-gabriel-rossetti_study-of-a-girl-1867.jpg,Image/dante-gabriel-rossetti_study-of-a-girl-1867.jpg,contentment,sadness,contentment,United Kingdom,western,test
+edward-burne-jones_the-annunciation-the-flower-of-god-1862.jpg,Image/edward-burne-jones_the-annunciation-the-flower-of-god-1862.jpg,awe,awe,amusement,United Kingdom,western,test
+edward-burne-jones_the-temple-of-love.jpg,Image/edward-burne-jones_the-temple-of-love.jpg,awe,contentment,awe,United Kingdom,western,test
+edwin-henry-landseer_laying-down-the-law.jpg,Image/edwin-henry-landseer_laying-down-the-law.jpg,amusement,contentment,awe,United Kingdom,western,test
+francisco-goya_la-pena-de-francia.jpg,Image/francisco-goya_la-pena-de-francia.jpg,fear,fear,sadness,Spain,western,test
+francisco-goya_one-to-anothers-1799.jpg,Image/francisco-goya_one-to-anothers-1799.jpg,fear,fear,fear,Spain,western,test
+francisco-goya_she-leaves-him-penniless-1799.jpg,Image/francisco-goya_she-leaves-him-penniless-1799.jpg,sadness,contentment,something else,Spain,western,test
+francisco-goya_she-prays-for-her-1799.jpg,Image/francisco-goya_she-prays-for-her-1799.jpg,contentment,fear,contentment,Spain,western,test
+francisco-goya_the-shy-man-1799.jpg,Image/francisco-goya_the-shy-man-1799.jpg,sadness,fear,fear,Spain,western,test
+gustave-dore_godfrey-enters-jerusalem-1877.jpg,Image/gustave-dore_godfrey-enters-jerusalem-1877.jpg,sadness,fear,anger,France,western,test
+gustave-dore_jesus.jpg,Image/gustave-dore_jesus.jpg,fear,fear,sadness,France,western,test
+gustave-dore_paradiso-canto-14.jpg,Image/gustave-dore_paradiso-canto-14.jpg,awe,contentment,awe,France,western,test
+gustave-dore_plate-no-26-book-vi-line-406-now-night-her-course-began-1882.jpg,Image/gustave-dore_plate-no-26-book-vi-line-406-now-night-her-course-began-1882.jpg,fear,fear,awe,France,western,test
+gustave-dore_the-baptism-of-jesus.jpg,Image/gustave-dore_the-baptism-of-jesus.jpg,awe,awe,awe,France,western,test
+gustave-dore_the-inferno-canto-24.jpg,Image/gustave-dore_the-inferno-canto-24.jpg,fear,fear,fear,France,western,test
+henry-raeburn_jacobina-copland.jpg,Image/henry-raeburn_jacobina-copland.jpg,contentment,contentment,something else,United Kingdom,western,test
+ivan-aivazovsky_gondolier-at-sea-by-night-1843.jpg,Image/ivan-aivazovsky_gondolier-at-sea-by-night-1843.jpg,contentment,contentment,awe,Russia,non-western,test
+ivan-aivazovsky_pushkin-on-the-coast-black-sea-1887.jpg,Image/ivan-aivazovsky_pushkin-on-the-coast-black-sea-1887.jpg,contentment,sadness,contentment,Russia,non-western,test
+ivan-aivazovsky_roads-of-mljet-to-gudauri-1868.jpg,Image/ivan-aivazovsky_roads-of-mljet-to-gudauri-1868.jpg,excitement,contentment,awe,Russia,non-western,test
+ivan-aivazovsky_the-black-sea-at-night-1879.jpg,Image/ivan-aivazovsky_the-black-sea-at-night-1879.jpg,contentment,fear,contentment,Russia,non-western,test
+ivan-aivazovsky_view-of-the-bosporus-1874.jpg,Image/ivan-aivazovsky_view-of-the-bosporus-1874.jpg,awe,contentment,amusement,Russia,non-western,test
+jan-matejko_teodora-matejko.jpg,Image/jan-matejko_teodora-matejko.jpg,awe,contentment,contentment,Poland,western,test
+jan-matejko_the-union-of-lublin-1869.jpg,Image/jan-matejko_the-union-of-lublin-1869.jpg,awe,contentment,awe,Poland,western,test
+jehan-georges-vibert_the-church-in-danger-1.jpg,Image/jehan-georges-vibert_the-church-in-danger-1.jpg,contentment,contentment,amusement,France,western,test
+john-atkinson-grimshaw_the-heron-s-haunt-1874.jpg,Image/john-atkinson-grimshaw_the-heron-s-haunt-1874.jpg,contentment,contentment,awe,United Kingdom,western,test
+john-crome_marlingford-grove-1815.jpg,Image/john-crome_marlingford-grove-1815.jpg,contentment,sadness,amusement,United Kingdom,western,test
+john-hoppner_an-unknown-british-officer.jpg,Image/john-hoppner_an-unknown-british-officer.jpg,awe,contentment,contentment,United Kingdom,western,test
+john-william-waterhouse_mariana-in-the-south-1897.jpg,Image/john-william-waterhouse_mariana-in-the-south-1897.jpg,contentment,contentment,amusement,United Kingdom,western,test
+karl-bodmer_chief-of-the-blood-indians-war-chief-of-the-piekann-indians-and-a-koutani-indian-plate-46-from-1844.jpg,Image/karl-bodmer_chief-of-the-blood-indians-war-chief-of-the-piekann-indians-and-a-koutani-indian-plate-46-from-1844.jpg,awe,contentment,contentment,Switzerland,western,test
+karl-bryullov_lazzaroni-and-children-1852(1).jpg,Image/karl-bryullov_lazzaroni-and-children-1852(1).jpg,contentment,contentment,amusement,Russia,non-western,test
+konstantin-makovsky_genre-scene.jpg,Image/konstantin-makovsky_genre-scene.jpg,sadness,contentment,sadness,Russia,non-western,test
+lev-lagorio_haystacks-1878.jpg,Image/lev-lagorio_haystacks-1878.jpg,amusement,contentment,awe,Russia,non-western,test
+pavel-svinyin_niagara-falls-table-rock-by-moonlight.jpg,Image/pavel-svinyin_niagara-falls-table-rock-by-moonlight.jpg,awe,awe,awe,Russia,non-western,test
+richard-parkes-bonington_at-the-english-coast-1825.jpg,Image/richard-parkes-bonington_at-the-english-coast-1825.jpg,fear,fear,fear,United Kingdom,western,test
+richard-parkes-bonington_green-fields-at-the-boards-of-rio-das-velhas.jpg,Image/richard-parkes-bonington_green-fields-at-the-boards-of-rio-das-velhas.jpg,awe,sadness,contentment,United Kingdom,western,test
+sir-lawrence-alma-tadema_chiesa-san-clemente-1863.jpg,Image/sir-lawrence-alma-tadema_chiesa-san-clemente-1863.jpg,awe,awe,awe,Netherlands,western,test
+sir-lawrence-alma-tadema_figures-on-the-terrace-by-the-acropolis-1874.jpg,Image/sir-lawrence-alma-tadema_figures-on-the-terrace-by-the-acropolis-1874.jpg,contentment,contentment,amusement,Netherlands,western,test
+thomas-cole_l-allegro-italian-sunset-1845.jpg,Image/thomas-cole_l-allegro-italian-sunset-1845.jpg,contentment,contentment,amusement,United States,western,test
+thomas-moran_amalfi-coast-1868.jpg,Image/thomas-moran_amalfi-coast-1868.jpg,contentment,contentment,amusement,United States,western,test
+thomas-moran_autumn-on-the-wissahickon-1864.jpg,Image/thomas-moran_autumn-on-the-wissahickon-1864.jpg,contentment,contentment,amusement,United States,western,test
+viktor-vasnetsov_sergei-alexandrovich-s-cross.jpg,Image/viktor-vasnetsov_sergei-alexandrovich-s-cross.jpg,something else,sadness,contentment,Russia,non-western,test
+william-shayer_the-watering-place-1864.jpg,Image/william-shayer_the-watering-place-1864.jpg,contentment,contentment,contentment,United Kingdom,western,test
+william-turner_scarborough-town-and-castle0-morning0-boys-catching-crabs.jpg,Image/william-turner_scarborough-town-and-castle0-morning0-boys-catching-crabs.jpg,contentment,contentment,contentment,United Kingdom,western,test
+arnold-bã¶cklin_piet-1885.jpg,Image/arnold-bã¶cklin_piet-1885.jpg,sadness,sadness,sadness,Switzerland,western,test
+arnold-bã¶cklin_portrait-of-the-singer-karl-wallenreiter.jpg,Image/arnold-bã¶cklin_portrait-of-the-singer-karl-wallenreiter.jpg,contentment,sadness,contentment,Switzerland,western,test
+george-frederick-watts_orpheus-and-eurydice-1.jpg,Image/george-frederick-watts_orpheus-and-eurydice-1.jpg,sadness,fear,sadness,United Kingdom,western,test
+harry-clarke_tales-of-mystery-and-imagination-by-edgar-allan-poe-1923-10.jpg,Image/harry-clarke_tales-of-mystery-and-imagination-by-edgar-allan-poe-1923-10.jpg,fear,fear,awe,Ireland,western,test
+henri-martin_mystic-scene-1895.jpg,Image/henri-martin_mystic-scene-1895.jpg,sadness,contentment,sadness,France,western,test
+konstantin-somov_evening-landscape.jpg,Image/konstantin-somov_evening-landscape.jpg,contentment,contentment,amusement,Russia,non-western,test
+konstantin-somov_lady-and-harlequin-fireworks.jpg,Image/konstantin-somov_lady-and-harlequin-fireworks.jpg,amusement,contentment,amusement,Russia,non-western,test
+kuzma-petrov-vodkin_female-head-1913.jpg,Image/kuzma-petrov-vodkin_female-head-1913.jpg,contentment,sadness,sadness,Russia,non-western,test
+kuzma-petrov-vodkin_portrait-of-the-artist-s-wife-1912.jpg,Image/kuzma-petrov-vodkin_portrait-of-the-artist-s-wife-1912.jpg,contentment,contentment,sadness,Russia,non-western,test
+maurice-denis_the-gathering.jpg,Image/maurice-denis_the-gathering.jpg,awe,contentment,amusement,France,western,test
+mikalojus-ciurlionis_finale-sonata-of-the-serpent-1908.jpg,Image/mikalojus-ciurlionis_finale-sonata-of-the-serpent-1908.jpg,awe,awe,awe,Lithuania,western,test
+mikhail-vrubel_head-of-demon.jpg,Image/mikhail-vrubel_head-of-demon.jpg,fear,fear,sadness,Russia,non-western,test
+mstislav-dobuzhinsky_pskov-1923.jpg,Image/mstislav-dobuzhinsky_pskov-1923.jpg,contentment,awe,contentment,Russia,non-western,test
+nicholas-roerich_castles-of-king-gesar.jpg,Image/nicholas-roerich_castles-of-king-gesar.jpg,awe,contentment,contentment,Russia,non-western,test
+nicholas-roerich_himalayas-54.jpg,Image/nicholas-roerich_himalayas-54.jpg,contentment,contentment,something else,Russia,non-western,test
+nicholas-roerich_karelian-landscape-rocky-seashore-1917.jpg,Image/nicholas-roerich_karelian-landscape-rocky-seashore-1917.jpg,contentment,contentment,amusement,Russia,non-western,test
+nicholas-roerich_lahaul-1943.jpg,Image/nicholas-roerich_lahaul-1943.jpg,awe,contentment,contentment,Russia,non-western,test
+nicholas-roerich_maitreya-the-conqueror-1926.jpg,Image/nicholas-roerich_maitreya-the-conqueror-1926.jpg,awe,contentment,excitement,Russia,non-western,test
+nicholas-roerich_manasbal-lake-1925.jpg,Image/nicholas-roerich_manasbal-lake-1925.jpg,awe,contentment,awe,Russia,non-western,test
+nicholas-roerich_svyatogor-1942.jpg,Image/nicholas-roerich_svyatogor-1942.jpg,awe,fear,awe,Russia,non-western,test
+nicholas-roerich_white-and-celestial-1924.jpg,Image/nicholas-roerich_white-and-celestial-1924.jpg,contentment,contentment,awe,Russia,non-western,test
+odilon-redon_cactus-man-1882.jpg,Image/odilon-redon_cactus-man-1882.jpg,fear,fear,fear,France,western,test
+odilon-redon_green-vase.jpg,Image/odilon-redon_green-vase.jpg,contentment,contentment,amusement,France,western,test
+william-blake_illustration-to-milton-s-on-the-morning-of-christ-s-nativity-1809.jpg,Image/william-blake_illustration-to-milton-s-on-the-morning-of-christ-s-nativity-1809.jpg,fear,fear,awe,United Kingdom,western,test
+william-blake_the-ancient-of-days-1794.jpg,Image/william-blake_the-ancient-of-days-1794.jpg,awe,awe,awe,United Kingdom,western,test
+ad-reinhardt_collage-1940.jpg,Image/ad-reinhardt_collage-1940.jpg,amusement,disgust,awe,United States,western,test
+hiroshige_ama-no-hashidate-in-tango-province-1858.jpg,Image/hiroshige_ama-no-hashidate-in-tango-province-1858.jpg,contentment,contentment,amusement,Japan,non-western,test
+hiroshige_benzaiten-shrine-at-inokashira-in-snow.jpg,Image/hiroshige_benzaiten-shrine-at-inokashira-in-snow.jpg,contentment,contentment,awe,Japan,non-western,test
+hiroshige_the-road-connecting-edo-tokyo-and-kyoto.jpg,Image/hiroshige_the-road-connecting-edo-tokyo-and-kyoto.jpg,contentment,contentment,excitement,Japan,non-western,test
+katsushika-hokusai_concert-under-the-wisteria.jpg,Image/katsushika-hokusai_concert-under-the-wisteria.jpg,contentment,contentment,contentment,Japan,non-western,test

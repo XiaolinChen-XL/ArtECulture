@@ -1,0 +1,23 @@
+{
+  "emotions": [
+    "amusement",
+    "awe",
+    "contentment",
+    "excitement",
+    "anger",
+    "disgust",
+    "fear",
+    "sadness",
+    "something else"
+  ],
+  "languages": {
+    "en": "english",
+    "zh": "chinese",
+    "ar": "arabic"
+  },
+  "splits": [
+    "train",
+    "val",
+    "test"
+  ]
+}
